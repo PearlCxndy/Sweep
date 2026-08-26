@@ -1,0 +1,1503 @@
+[
+  {
+    "id": "bananas",
+    "name": "Tesco bananas",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "5 pack",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 89,
+    "group": "fruit"
+  },
+  {
+    "id": "cherry-tomatoes",
+    "name": "Tesco cherry tomatoes",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "330g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 110,
+    "group": "veg"
+  },
+  {
+    "id": "baby-spinach",
+    "name": "Tesco baby spinach",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "240g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 165,
+    "group": "salad"
+  },
+  {
+    "id": "carrots",
+    "name": "Tesco carrots",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1kg",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 75,
+    "group": "veg"
+  },
+  {
+    "id": "gala-apples",
+    "name": "Tesco gala apples",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "6 pack",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 190,
+    "group": "fruit"
+  },
+  {
+    "id": "avocados",
+    "name": "Tesco avocados",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "2 pack",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 175,
+    "group": "fruit"
+  },
+  {
+    "id": "brown-onions",
+    "name": "Tesco brown onions",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1kg",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 105,
+    "group": "veg"
+  },
+  {
+    "id": "spring-onions",
+    "name": "Tesco spring onions",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "100g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 85,
+    "group": "veg"
+  },
+  {
+    "id": "maris-piper",
+    "name": "Tesco maris piper potatoes",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "2.5kg",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 199,
+    "group": "veg"
+  },
+  {
+    "id": "lemons",
+    "name": "Tesco lemons",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "4 pack",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 95,
+    "group": "fruit"
+  },
+  {
+    "id": "chicken-breast",
+    "name": "Tesco chicken breast fillets",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "650g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 585,
+    "group": "poultry",
+    "attributes": {
+      "cut": "breast"
+    }
+  },
+  {
+    "id": "chicken-thighs",
+    "name": "Tesco chicken thigh fillets",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "650g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 480,
+    "group": "poultry",
+    "attributes": {
+      "cut": "thigh"
+    }
+  },
+  {
+    "id": "beef-mince",
+    "name": "Tesco beef mince 12% fat",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 425,
+    "group": "red-meat"
+  },
+  {
+    "id": "salmon-fillets",
+    "name": "Tesco salmon fillets",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "240g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 450,
+    "group": "fish"
+  },
+  {
+    "id": "cooked-king-prawns",
+    "name": "Tesco cooked king prawns",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "180g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 375,
+    "group": "fish"
+  },
+  {
+    "id": "back-bacon",
+    "name": "Tesco smoked back bacon",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "300g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 320,
+    "group": "pork"
+  },
+  {
+    "id": "houmous",
+    "name": "Tesco houmous",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "200g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 95,
+    "group": "dips"
+  },
+  {
+    "id": "orange-juice",
+    "name": "Tropicana smooth orange juice",
+    "brand": "Tropicana",
+    "ownBrand": false,
+    "size": "900ml",
+    "unitMl": 900,
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 285,
+    "group": "juice"
+  },
+  {
+    "id": "greek-yoghurt",
+    "name": "Tesco greek style yoghurt",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 130,
+    "group": "yoghurt"
+  },
+  {
+    "id": "white-bread",
+    "name": "Tesco white bread",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "800g",
+    "category": "bakery",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 85,
+    "group": "bread",
+    "attributes": {
+      "flour": "white"
+    }
+  },
+  {
+    "id": "wholemeal-bread",
+    "name": "Tesco wholemeal bread",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "800g",
+    "category": "bakery",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 85,
+    "group": "bread",
+    "attributes": {
+      "flour": "wholemeal"
+    }
+  },
+  {
+    "id": "bagels",
+    "name": "New York Bakery plain bagels",
+    "brand": "New York Bakery",
+    "ownBrand": false,
+    "size": "5 pack",
+    "category": "bakery",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 185,
+    "group": "bread"
+  },
+  {
+    "id": "croissants",
+    "name": "Tesco all butter croissants",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "4 pack",
+    "category": "bakery",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 145,
+    "group": "pastry"
+  },
+  {
+    "id": "gf-white-loaf",
+    "name": "Tesco Free From white loaf",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "550g",
+    "category": "bakery",
+    "dietaryTags": [
+      "gluten-free"
+    ],
+    "price": 250,
+    "group": "free-from-bread",
+    "attributes": {
+      "flour": "white"
+    }
+  },
+  {
+    "id": "gf-brown-loaf",
+    "name": "Tesco Free From brown loaf",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "550g",
+    "category": "bakery",
+    "dietaryTags": [
+      "gluten-free"
+    ],
+    "price": 250,
+    "group": "free-from-bread",
+    "attributes": {
+      "flour": "brown"
+    }
+  },
+  {
+    "id": "gf-penne",
+    "name": "Tesco Free From penne",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "gluten-free",
+      "vegan"
+    ],
+    "price": 175,
+    "group": "pasta"
+  },
+  {
+    "id": "milk-semi-2l",
+    "name": "Tesco semi-skimmed milk",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "2L",
+    "unitMl": 2000,
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 145,
+    "lineId": "tesco-milk-semi",
+    "group": "milk",
+    "attributes": {
+      "fat": "semi-skimmed"
+    }
+  },
+  {
+    "id": "milk-semi-1l",
+    "name": "Tesco semi-skimmed milk",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1L",
+    "unitMl": 1000,
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 90,
+    "lineId": "tesco-milk-semi",
+    "group": "milk",
+    "attributes": {
+      "fat": "semi-skimmed"
+    }
+  },
+  {
+    "id": "milk-whole-2l",
+    "name": "Tesco whole milk",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "2L",
+    "unitMl": 2000,
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 145,
+    "lineId": "tesco-milk-whole",
+    "group": "milk",
+    "attributes": {
+      "fat": "whole"
+    }
+  },
+  {
+    "id": "milk-arla-semi-2l",
+    "name": "Arla British semi-skimmed milk",
+    "brand": "Arla",
+    "ownBrand": false,
+    "size": "2L",
+    "unitMl": 2000,
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 165,
+    "lineId": "arla-milk-semi",
+    "group": "milk",
+    "attributes": {
+      "fat": "semi-skimmed"
+    }
+  },
+  {
+    "id": "salted-butter",
+    "name": "Tesco salted butter",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "250g",
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 219,
+    "group": "butter"
+  },
+  {
+    "id": "mature-cheddar",
+    "name": "Tesco mature cheddar",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "400g",
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 315,
+    "group": "cheese"
+  },
+  {
+    "id": "free-range-eggs",
+    "name": "Tesco free range eggs",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "12 pack",
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 285,
+    "group": "eggs"
+  },
+  {
+    "id": "double-cream",
+    "name": "Tesco double cream",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "300ml",
+    "unitMl": 300,
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 125,
+    "group": "cream"
+  },
+  {
+    "id": "chopped-tomatoes",
+    "name": "Tesco chopped tomatoes",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "400g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 45,
+    "group": "tinned-veg"
+  },
+  {
+    "id": "baked-beans",
+    "name": "Tesco baked beans",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "415g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 42,
+    "group": "tinned-veg"
+  },
+  {
+    "id": "olive-oil",
+    "name": "Tesco olive oil",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500ml",
+    "unitMl": 500,
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 395,
+    "group": "condiments"
+  },
+  {
+    "id": "tuna-chunks",
+    "name": "Tesco tuna chunks in spring water",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "4 x 145g",
+    "category": "cupboard",
+    "dietaryTags": [],
+    "price": 425,
+    "group": "tinned-fish"
+  },
+  {
+    "id": "fusilli",
+    "name": "Tesco fusilli",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 75,
+    "group": "pasta",
+    "attributes": {
+      "shape": "fusilli"
+    }
+  },
+  {
+    "id": "penne",
+    "name": "Tesco penne",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 75,
+    "group": "pasta",
+    "attributes": {
+      "shape": "penne"
+    }
+  },
+  {
+    "id": "basmati-rice",
+    "name": "Tesco basmati rice",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1kg",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 250,
+    "group": "grains"
+  },
+  {
+    "id": "teabags",
+    "name": "Tesco everyday tea",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "240 bags",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 340,
+    "group": "tea"
+  },
+  {
+    "id": "ground-coffee",
+    "name": "Taylors rich italian ground coffee",
+    "brand": "Taylors",
+    "ownBrand": false,
+    "size": "227g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 425,
+    "group": "coffee"
+  },
+  {
+    "id": "salted-crisps",
+    "name": "Tesco ready salted crisps",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "6 pack",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 130,
+    "group": "crisps"
+  },
+  {
+    "id": "dark-chocolate",
+    "name": "Tesco dark chocolate",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "100g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 110,
+    "group": "chocolate"
+  },
+  {
+    "id": "porridge-oats",
+    "name": "Tesco porridge oats",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1kg",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 165,
+    "group": "cereal"
+  },
+  {
+    "id": "garden-peas",
+    "name": "Tesco garden peas",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1kg",
+    "category": "frozen",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 165,
+    "group": "frozen-veg"
+  },
+  {
+    "id": "mixed-vegetables",
+    "name": "Tesco mixed vegetables",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1kg",
+    "category": "frozen",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 165,
+    "group": "frozen-veg"
+  },
+  {
+    "id": "fish-fingers",
+    "name": "Birds Eye fish fingers",
+    "brand": "Birds Eye",
+    "ownBrand": false,
+    "size": "12 pack",
+    "category": "frozen",
+    "dietaryTags": [],
+    "price": 375,
+    "group": "frozen-meal"
+  },
+  {
+    "id": "washing-up-liquid",
+    "name": "Tesco washing up liquid",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500ml",
+    "unitMl": 500,
+    "category": "household",
+    "dietaryTags": [],
+    "price": 110,
+    "group": "cleaning"
+  },
+  {
+    "id": "kitchen-towel",
+    "name": "Tesco kitchen towel",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "2 pack",
+    "category": "household",
+    "dietaryTags": [],
+    "price": 250,
+    "group": "paper"
+  },
+  {
+    "id": "bin-liners",
+    "name": "Tesco bin liners",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "20 pack",
+    "category": "household",
+    "dietaryTags": [],
+    "price": 145,
+    "group": "paper"
+  },
+  {
+    "id": "toothpaste",
+    "name": "Colgate total toothpaste",
+    "brand": "Colgate",
+    "ownBrand": false,
+    "size": "75ml",
+    "unitMl": 75,
+    "category": "household",
+    "dietaryTags": [],
+    "price": 350,
+    "group": "toiletries"
+  },
+  {
+    "id": "sparkling-water",
+    "name": "Tesco sparkling water",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "2L",
+    "unitMl": 2000,
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 65,
+    "group": "soft-drinks"
+  },
+  {
+    "id": "pork-chops",
+    "name": "Tesco pork loin chops",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "4 pack",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 420,
+    "group": "pork",
+    "attributes": {
+      "cut": "chop"
+    }
+  },
+  {
+    "id": "pork-mince",
+    "name": "Tesco pork mince 10% fat",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 340,
+    "group": "pork",
+    "attributes": {
+      "cut": "mince"
+    }
+  },
+  {
+    "id": "pork-sausages",
+    "name": "Tesco pork sausages",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "12 pack",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 290,
+    "group": "pork"
+  },
+  {
+    "id": "chicken-drumsticks",
+    "name": "Tesco chicken drumsticks",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1kg",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 315,
+    "group": "poultry",
+    "attributes": {
+      "cut": "drumstick"
+    }
+  },
+  {
+    "id": "whole-chicken",
+    "name": "Tesco whole chicken",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1.5kg",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 445,
+    "group": "poultry",
+    "attributes": {
+      "cut": "whole"
+    }
+  },
+  {
+    "id": "lamb-mince",
+    "name": "Tesco lamb mince 20% fat",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 495,
+    "group": "red-meat"
+  },
+  {
+    "id": "cod-fillets",
+    "name": "Tesco cod fillets",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "260g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 420,
+    "group": "fish"
+  },
+  {
+    "id": "cooked-ham",
+    "name": "Tesco wafer thin cooked ham",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "400g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 265,
+    "group": "deli"
+  },
+  {
+    "id": "turkey-mince",
+    "name": "Tesco turkey breast mince",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "fresh",
+    "dietaryTags": [],
+    "price": 375,
+    "group": "poultry"
+  },
+  {
+    "id": "broccoli",
+    "name": "Tesco broccoli",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "350g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 69,
+    "group": "veg"
+  },
+  {
+    "id": "mixed-peppers",
+    "name": "Tesco mixed peppers",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "3 pack",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 165,
+    "group": "veg"
+  },
+  {
+    "id": "cucumber",
+    "name": "Tesco cucumber",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "each",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 79,
+    "group": "veg"
+  },
+  {
+    "id": "mushrooms",
+    "name": "Tesco closed cup mushrooms",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "300g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 105,
+    "group": "veg"
+  },
+  {
+    "id": "salad-bag",
+    "name": "Tesco crispy leaf salad",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "200g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 95,
+    "group": "salad"
+  },
+  {
+    "id": "seedless-grapes",
+    "name": "Tesco seedless green grapes",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 220,
+    "group": "fruit"
+  },
+  {
+    "id": "blueberries",
+    "name": "Tesco blueberries",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "200g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 210,
+    "group": "fruit"
+  },
+  {
+    "id": "courgettes",
+    "name": "Tesco courgettes",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "3 pack",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 115,
+    "group": "veg"
+  },
+  {
+    "id": "garlic",
+    "name": "Tesco garlic",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "3 pack",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 79,
+    "group": "veg"
+  },
+  {
+    "id": "root-ginger",
+    "name": "Tesco root ginger",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "each",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 45,
+    "group": "veg"
+  },
+  {
+    "id": "strawberries",
+    "name": "Tesco strawberries",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "400g",
+    "category": "fresh",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 250,
+    "group": "fruit"
+  },
+  {
+    "id": "tortilla-chips",
+    "name": "Tesco lightly salted tortilla chips",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "200g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 95,
+    "group": "crisps"
+  },
+  {
+    "id": "digestives",
+    "name": "McVitie's digestive biscuits",
+    "brand": "McVitie's",
+    "ownBrand": false,
+    "size": "400g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 185,
+    "group": "biscuits"
+  },
+  {
+    "id": "salted-peanuts",
+    "name": "Tesco salted peanuts",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "200g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 125,
+    "group": "crisps"
+  },
+  {
+    "id": "sweet-popcorn",
+    "name": "Tesco sweet and salted popcorn",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "100g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 110,
+    "group": "crisps"
+  },
+  {
+    "id": "jaffa-cakes",
+    "name": "McVitie's Jaffa Cakes",
+    "brand": "McVitie's",
+    "ownBrand": false,
+    "size": "10 pack",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 155,
+    "group": "biscuits"
+  },
+  {
+    "id": "cereal-bars",
+    "name": "Tesco oat and honey bars",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "6 pack",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 140,
+    "group": "biscuits"
+  },
+  {
+    "id": "dairy-milk-bar",
+    "name": "Cadbury Dairy Milk",
+    "brand": "Cadbury",
+    "ownBrand": false,
+    "size": "110g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 165,
+    "group": "chocolate"
+  },
+  {
+    "id": "salted-pretzels",
+    "name": "Tesco salted pretzels",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "175g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 90,
+    "group": "crisps"
+  },
+  {
+    "id": "mozzarella",
+    "name": "Tesco mozzarella",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "125g",
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 90,
+    "group": "cheese"
+  },
+  {
+    "id": "soft-cheese",
+    "name": "Tesco soft cheese",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "200g",
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 130,
+    "group": "cheese"
+  },
+  {
+    "id": "halloumi",
+    "name": "Tesco halloumi",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "225g",
+    "category": "dairy",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 240,
+    "group": "cheese"
+  },
+  {
+    "id": "oat-drink",
+    "name": "Tesco oat drink",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1L",
+    "unitMl": 1000,
+    "category": "dairy",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 135,
+    "group": "milk"
+  },
+  {
+    "id": "tortilla-wraps",
+    "name": "Tesco plain tortilla wraps",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "8 pack",
+    "category": "bakery",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 100,
+    "group": "bread"
+  },
+  {
+    "id": "pitta-bread",
+    "name": "Tesco white pitta bread",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "6 pack",
+    "category": "bakery",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 75,
+    "group": "bread"
+  },
+  {
+    "id": "crumpets",
+    "name": "Tesco crumpets",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "6 pack",
+    "category": "bakery",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 85,
+    "group": "bread"
+  },
+  {
+    "id": "chickpeas",
+    "name": "Tesco chickpeas",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "400g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 55,
+    "group": "tinned-pulses"
+  },
+  {
+    "id": "kidney-beans",
+    "name": "Tesco red kidney beans",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "400g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 55,
+    "group": "tinned-pulses"
+  },
+  {
+    "id": "sweetcorn-tin",
+    "name": "Tesco sweetcorn",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "325g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 65,
+    "group": "tinned-veg"
+  },
+  {
+    "id": "soy-sauce",
+    "name": "Tesco soy sauce",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "150ml",
+    "unitMl": 150,
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 110,
+    "group": "condiments"
+  },
+  {
+    "id": "tikka-paste",
+    "name": "Patak's tikka masala paste",
+    "brand": "Patak's",
+    "ownBrand": false,
+    "size": "283g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 210,
+    "group": "condiments"
+  },
+  {
+    "id": "clear-honey",
+    "name": "Tesco clear honey",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "340g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 175,
+    "group": "spreads"
+  },
+  {
+    "id": "peanut-butter",
+    "name": "Tesco smooth peanut butter",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "340g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 155,
+    "group": "spreads"
+  },
+  {
+    "id": "stock-cubes",
+    "name": "Tesco chicken stock cubes",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "10 pack",
+    "category": "cupboard",
+    "dietaryTags": [],
+    "price": 100,
+    "group": "condiments"
+  },
+  {
+    "id": "spaghetti",
+    "name": "Tesco spaghetti",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 75,
+    "group": "pasta",
+    "attributes": {
+      "shape": "spaghetti"
+    }
+  },
+  {
+    "id": "couscous",
+    "name": "Tesco couscous",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 130,
+    "group": "grains"
+  },
+  {
+    "id": "cornflakes",
+    "name": "Tesco cornflakes",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "720g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 155,
+    "group": "cereal"
+  },
+  {
+    "id": "instant-coffee",
+    "name": "Nescafe Gold instant coffee",
+    "brand": "Nescafe",
+    "ownBrand": false,
+    "size": "100g",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 480,
+    "group": "coffee"
+  },
+  {
+    "id": "green-tea",
+    "name": "Tesco green tea",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "40 bags",
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 120,
+    "group": "tea"
+  },
+  {
+    "id": "oven-chips",
+    "name": "Tesco oven chips",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1.5kg",
+    "category": "frozen",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 185,
+    "group": "frozen-potato"
+  },
+  {
+    "id": "vanilla-ice-cream",
+    "name": "Tesco vanilla ice cream",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1L",
+    "unitMl": 1000,
+    "category": "frozen",
+    "dietaryTags": [
+      "vegetarian"
+    ],
+    "price": 190,
+    "group": "frozen-dessert"
+  },
+  {
+    "id": "frozen-berries",
+    "name": "Tesco frozen berry mix",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500g",
+    "category": "frozen",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 225,
+    "group": "frozen-veg"
+  },
+  {
+    "id": "pepperoni-pizza",
+    "name": "Tesco pepperoni pizza",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "330g",
+    "category": "frozen",
+    "dietaryTags": [],
+    "price": 175,
+    "group": "frozen-meal"
+  },
+  {
+    "id": "laundry-liquid",
+    "name": "Tesco non-bio laundry liquid",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1.5L",
+    "unitMl": 1500,
+    "category": "household",
+    "dietaryTags": [],
+    "price": 350,
+    "group": "cleaning"
+  },
+  {
+    "id": "sponge-scourers",
+    "name": "Tesco sponge scourers",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "5 pack",
+    "category": "household",
+    "dietaryTags": [],
+    "price": 95,
+    "group": "cleaning"
+  },
+  {
+    "id": "kitchen-foil",
+    "name": "Tesco kitchen foil",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "10m",
+    "category": "household",
+    "dietaryTags": [],
+    "price": 130,
+    "group": "paper"
+  },
+  {
+    "id": "shower-gel",
+    "name": "Tesco shower gel",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "500ml",
+    "unitMl": 500,
+    "category": "household",
+    "dietaryTags": [],
+    "price": 120,
+    "group": "toiletries"
+  },
+  {
+    "id": "shampoo",
+    "name": "Head & Shoulders shampoo",
+    "brand": "Head & Shoulders",
+    "ownBrand": false,
+    "size": "400ml",
+    "unitMl": 400,
+    "category": "household",
+    "dietaryTags": [],
+    "price": 450,
+    "group": "toiletries"
+  },
+  {
+    "id": "orange-squash",
+    "name": "Tesco orange squash",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1.5L",
+    "unitMl": 1500,
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 90,
+    "group": "soft-drinks"
+  },
+  {
+    "id": "cola",
+    "name": "Coca-Cola",
+    "brand": "Coca-Cola",
+    "ownBrand": false,
+    "size": "2L",
+    "unitMl": 2000,
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 225,
+    "group": "soft-drinks"
+  },
+  {
+    "id": "apple-juice",
+    "name": "Tesco apple juice",
+    "brand": "Tesco",
+    "ownBrand": true,
+    "size": "1L",
+    "unitMl": 1000,
+    "category": "cupboard",
+    "dietaryTags": [
+      "vegan"
+    ],
+    "price": 115,
+    "group": "juice"
+  }
+]

@@ -1,0 +1,5735 @@
+[
+  {
+    "id": "pur-apple-juice-trip-01",
+    "productId": "apple-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-avocados-trip-01",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-baby-spinach-trip-01",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-back-bacon-trip-01",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-bagels-trip-01",
+    "productId": "bagels",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-baked-beans-trip-01",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-bananas-trip-01",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-basmati-rice-trip-01",
+    "productId": "basmati-rice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-beef-mince-trip-01",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-bin-liners-trip-01",
+    "productId": "bin-liners",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-blueberries-trip-01",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-broccoli-trip-01",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-brown-onions-trip-01",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-carrots-trip-01",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cereal-bars-trip-01",
+    "productId": "cereal-bars",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-01",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-chicken-breast-trip-01",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-chicken-drumsticks-trip-01",
+    "productId": "chicken-drumsticks",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-chicken-thighs-trip-01",
+    "productId": "chicken-thighs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-chickpeas-trip-01",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-chopped-tomatoes-trip-01",
+    "productId": "chopped-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-clear-honey-trip-01",
+    "productId": "clear-honey",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cod-fillets-trip-01",
+    "productId": "cod-fillets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cola-trip-01",
+    "productId": "cola",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cooked-ham-trip-01",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cooked-king-prawns-trip-01",
+    "productId": "cooked-king-prawns",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cornflakes-trip-01",
+    "productId": "cornflakes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-courgettes-trip-01",
+    "productId": "courgettes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-couscous-trip-01",
+    "productId": "couscous",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-croissants-trip-01",
+    "productId": "croissants",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-crumpets-trip-01",
+    "productId": "crumpets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-cucumber-trip-01",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-dairy-milk-bar-trip-01",
+    "productId": "dairy-milk-bar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-dark-chocolate-trip-01",
+    "productId": "dark-chocolate",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-digestives-trip-01",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-double-cream-trip-01",
+    "productId": "double-cream",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-fish-fingers-trip-01",
+    "productId": "fish-fingers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-01",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-frozen-berries-trip-01",
+    "productId": "frozen-berries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-fusilli-trip-01",
+    "productId": "fusilli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-gala-apples-trip-01",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-garden-peas-trip-01",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-garlic-trip-01",
+    "productId": "garlic",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-gf-brown-loaf-trip-01",
+    "productId": "gf-brown-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-gf-penne-trip-01",
+    "productId": "gf-penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-gf-white-loaf-trip-01",
+    "productId": "gf-white-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-01",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-green-tea-trip-01",
+    "productId": "green-tea",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-ground-coffee-trip-01",
+    "productId": "ground-coffee",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-halloumi-trip-01",
+    "productId": "halloumi",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-instant-coffee-trip-01",
+    "productId": "instant-coffee",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-jaffa-cakes-trip-01",
+    "productId": "jaffa-cakes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-kidney-beans-trip-01",
+    "productId": "kidney-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-kitchen-foil-trip-01",
+    "productId": "kitchen-foil",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-kitchen-towel-trip-01",
+    "productId": "kitchen-towel",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-lamb-mince-trip-01",
+    "productId": "lamb-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-laundry-liquid-trip-01",
+    "productId": "laundry-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-lemons-trip-01",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-maris-piper-trip-01",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-01",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-01",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-milk-whole-2l-trip-01",
+    "productId": "milk-whole-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-01",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-mixed-vegetables-trip-01",
+    "productId": "mixed-vegetables",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-mozzarella-trip-01",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-mushrooms-trip-01",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-oat-drink-trip-01",
+    "productId": "oat-drink",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-olive-oil-trip-01",
+    "productId": "olive-oil",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-orange-juice-trip-01",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-orange-squash-trip-01",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-oven-chips-trip-01",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-peanut-butter-trip-01",
+    "productId": "peanut-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-penne-trip-01",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-pepperoni-pizza-trip-01",
+    "productId": "pepperoni-pizza",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-pitta-bread-trip-01",
+    "productId": "pitta-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-pork-chops-trip-01",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-pork-mince-trip-01",
+    "productId": "pork-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-pork-sausages-trip-01",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-porridge-oats-trip-01",
+    "productId": "porridge-oats",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-root-ginger-trip-01",
+    "productId": "root-ginger",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-salad-bag-trip-01",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-salmon-fillets-trip-01",
+    "productId": "salmon-fillets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-salted-butter-trip-01",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-salted-crisps-trip-01",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-salted-peanuts-trip-01",
+    "productId": "salted-peanuts",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-salted-pretzels-trip-01",
+    "productId": "salted-pretzels",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-01",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-shampoo-trip-01",
+    "productId": "shampoo",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-shower-gel-trip-01",
+    "productId": "shower-gel",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-soft-cheese-trip-01",
+    "productId": "soft-cheese",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-soy-sauce-trip-01",
+    "productId": "soy-sauce",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-spaghetti-trip-01",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-sparkling-water-trip-01",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-sponge-scourers-trip-01",
+    "productId": "sponge-scourers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-spring-onions-trip-01",
+    "productId": "spring-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-stock-cubes-trip-01",
+    "productId": "stock-cubes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-strawberries-trip-01",
+    "productId": "strawberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-sweet-popcorn-trip-01",
+    "productId": "sweet-popcorn",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-sweetcorn-tin-trip-01",
+    "productId": "sweetcorn-tin",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-teabags-trip-01",
+    "productId": "teabags",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-tikka-paste-trip-01",
+    "productId": "tikka-paste",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-toothpaste-trip-01",
+    "productId": "toothpaste",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-01",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-01",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-tuna-chunks-trip-01",
+    "productId": "tuna-chunks",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-turkey-mince-trip-01",
+    "productId": "turkey-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-vanilla-ice-cream-trip-01",
+    "productId": "vanilla-ice-cream",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-01",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-white-bread-trip-01",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-whole-chicken-trip-01",
+    "productId": "whole-chicken",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-wholemeal-bread-trip-01",
+    "productId": "wholemeal-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-01",
+    "date": "2026-02-14"
+  },
+  {
+    "id": "pur-bananas-trip-02",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-02",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-02",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-02",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-02",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-02",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "pur-milk-semi-1l-trip-02",
+    "productId": "milk-semi-1l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-02",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-02",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-02",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "pur-salad-bag-trip-02",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-02",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "pur-white-bread-trip-02",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-02",
+    "date": "2026-02-19"
+  },
+  {
+    "id": "pur-avocados-trip-03",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-baby-spinach-trip-03",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-back-bacon-trip-03",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-baked-beans-trip-03",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-bananas-trip-03",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-beef-mince-trip-03",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-blueberries-trip-03",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-broccoli-trip-03",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-brown-onions-trip-03",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-carrots-trip-03",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-03",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-chickpeas-trip-03",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-cooked-ham-trip-03",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-cucumber-trip-03",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-digestives-trip-03",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-03",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-gala-apples-trip-03",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-garden-peas-trip-03",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-03",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-lemons-trip-03",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-maris-piper-trip-03",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-03",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-03",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-03",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-mozzarella-trip-03",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-mushrooms-trip-03",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-orange-juice-trip-03",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-orange-squash-trip-03",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-oven-chips-trip-03",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-penne-trip-03",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-pork-chops-trip-03",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-pork-sausages-trip-03",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-salad-bag-trip-03",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-salted-crisps-trip-03",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-03",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-spaghetti-trip-03",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-sparkling-water-trip-03",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-03",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-03",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-03",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-white-bread-trip-03",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-03",
+    "date": "2026-02-28"
+  },
+  {
+    "id": "pur-bananas-trip-04",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-04",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-04",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-04",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-04",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-04",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-04",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-04",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "pur-white-bread-trip-04",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-04",
+    "date": "2026-03-05"
+  },
+  {
+    "id": "pur-avocados-trip-05",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-baby-spinach-trip-05",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-back-bacon-trip-05",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-baked-beans-trip-05",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-bananas-trip-05",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-beef-mince-trip-05",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-blueberries-trip-05",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-broccoli-trip-05",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-brown-onions-trip-05",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-carrots-trip-05",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-05",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-chicken-breast-trip-05",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-chickpeas-trip-05",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-cooked-ham-trip-05",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-cucumber-trip-05",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-digestives-trip-05",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-gala-apples-trip-05",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-garden-peas-trip-05",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-05",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-lemons-trip-05",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-maris-piper-trip-05",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-05",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-milk-arla-semi-2l-trip-05",
+    "productId": "milk-arla-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-05",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-mozzarella-trip-05",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-mushrooms-trip-05",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-orange-juice-trip-05",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-orange-squash-trip-05",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-oven-chips-trip-05",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-penne-trip-05",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-pork-chops-trip-05",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-pork-sausages-trip-05",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-salad-bag-trip-05",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-salted-butter-trip-05",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-salted-crisps-trip-05",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-05",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-spaghetti-trip-05",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-sparkling-water-trip-05",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-05",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-05",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-05",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-white-bread-trip-05",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-05",
+    "date": "2026-03-14"
+  },
+  {
+    "id": "pur-bananas-trip-06",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-06",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-06",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-06",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-06",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-06",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "pur-milk-semi-1l-trip-06",
+    "productId": "milk-semi-1l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-06",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "pur-white-bread-trip-06",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-06",
+    "date": "2026-03-19"
+  },
+  {
+    "id": "pur-avocados-trip-07",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-baby-spinach-trip-07",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-back-bacon-trip-07",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-baked-beans-trip-07",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-bananas-trip-07",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-beef-mince-trip-07",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-broccoli-trip-07",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-brown-onions-trip-07",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-carrots-trip-07",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-07",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-cooked-ham-trip-07",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-cucumber-trip-07",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-07",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-fusilli-trip-07",
+    "productId": "fusilli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-gala-apples-trip-07",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-garden-peas-trip-07",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-gf-white-loaf-trip-07",
+    "productId": "gf-white-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-07",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-lemons-trip-07",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-maris-piper-trip-07",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-07",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-07",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-07",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-mushrooms-trip-07",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-orange-juice-trip-07",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-penne-trip-07",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-pork-chops-trip-07",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-pork-sausages-trip-07",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-salad-bag-trip-07",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-salted-crisps-trip-07",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-sparkling-water-trip-07",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-07",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-07",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-white-bread-trip-07",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-07",
+    "date": "2026-03-28"
+  },
+  {
+    "id": "pur-apple-juice-trip-08",
+    "productId": "apple-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-avocados-trip-08",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-baby-spinach-trip-08",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-back-bacon-trip-08",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-baked-beans-trip-08",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-bananas-trip-08",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-beef-mince-trip-08",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-blueberries-trip-08",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-broccoli-trip-08",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-brown-onions-trip-08",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-carrots-trip-08",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-cereal-bars-trip-08",
+    "productId": "cereal-bars",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-08",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-chicken-breast-trip-08",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-chicken-drumsticks-trip-08",
+    "productId": "chicken-drumsticks",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-chickpeas-trip-08",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-chopped-tomatoes-trip-08",
+    "productId": "chopped-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-cola-trip-08",
+    "productId": "cola",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-cooked-ham-trip-08",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-cornflakes-trip-08",
+    "productId": "cornflakes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-courgettes-trip-08",
+    "productId": "courgettes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-cucumber-trip-08",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-dairy-milk-bar-trip-08",
+    "productId": "dairy-milk-bar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-digestives-trip-08",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-08",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-gala-apples-trip-08",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-garden-peas-trip-08",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-08",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-kidney-beans-trip-08",
+    "productId": "kidney-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-laundry-liquid-trip-08",
+    "productId": "laundry-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-lemons-trip-08",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-maris-piper-trip-08",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-08",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-08",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-milk-whole-2l-trip-08",
+    "productId": "milk-whole-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-08",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-mixed-vegetables-trip-08",
+    "productId": "mixed-vegetables",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-mozzarella-trip-08",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-mushrooms-trip-08",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-oat-drink-trip-08",
+    "productId": "oat-drink",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-orange-juice-trip-08",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-orange-squash-trip-08",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-oven-chips-trip-08",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-peanut-butter-trip-08",
+    "productId": "peanut-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-penne-trip-08",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-pitta-bread-trip-08",
+    "productId": "pitta-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-pork-chops-trip-08",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-pork-mince-trip-08",
+    "productId": "pork-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-pork-sausages-trip-08",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-salad-bag-trip-08",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-salted-butter-trip-08",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-salted-crisps-trip-08",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-salted-peanuts-trip-08",
+    "productId": "salted-peanuts",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-08",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-soft-cheese-trip-08",
+    "productId": "soft-cheese",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-spaghetti-trip-08",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-sparkling-water-trip-08",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-spring-onions-trip-08",
+    "productId": "spring-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-sweetcorn-tin-trip-08",
+    "productId": "sweetcorn-tin",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-08",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-08",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-vanilla-ice-cream-trip-08",
+    "productId": "vanilla-ice-cream",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-08",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-white-bread-trip-08",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-08",
+    "date": "2026-04-11"
+  },
+  {
+    "id": "pur-bananas-trip-09",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-09",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-09",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-09",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-09",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-09",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "pur-milk-arla-semi-2l-trip-09",
+    "productId": "milk-arla-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-09",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-09",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-09",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "pur-white-bread-trip-09",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-09",
+    "date": "2026-04-16"
+  },
+  {
+    "id": "pur-avocados-trip-10",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-baby-spinach-trip-10",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-back-bacon-trip-10",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-baked-beans-trip-10",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-bananas-trip-10",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-beef-mince-trip-10",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-blueberries-trip-10",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-broccoli-trip-10",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-brown-onions-trip-10",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-carrots-trip-10",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-10",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-chickpeas-trip-10",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-cooked-ham-trip-10",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-cucumber-trip-10",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-digestives-trip-10",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-10",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-gala-apples-trip-10",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-garden-peas-trip-10",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-gf-white-loaf-trip-10",
+    "productId": "gf-white-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-10",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-lemons-trip-10",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-maris-piper-trip-10",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-10",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-10",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-10",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-mozzarella-trip-10",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-mushrooms-trip-10",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-orange-juice-trip-10",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-orange-squash-trip-10",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-oven-chips-trip-10",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-penne-trip-10",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-pork-chops-trip-10",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-pork-sausages-trip-10",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-salad-bag-trip-10",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-salted-crisps-trip-10",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-10",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-spaghetti-trip-10",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-sparkling-water-trip-10",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-10",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-10",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-10",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-white-bread-trip-10",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-10",
+    "date": "2026-04-25"
+  },
+  {
+    "id": "pur-avocados-trip-11",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-baby-spinach-trip-11",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-back-bacon-trip-11",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-baked-beans-trip-11",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-bananas-trip-11",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-beef-mince-trip-11",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-blueberries-trip-11",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-broccoli-trip-11",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-brown-onions-trip-11",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-carrots-trip-11",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-11",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-chicken-breast-trip-11",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-chickpeas-trip-11",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-digestives-trip-11",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-gala-apples-trip-11",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-garden-peas-trip-11",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-11",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-lemons-trip-11",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-maris-piper-trip-11",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-11",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-11",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-mozzarella-trip-11",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-orange-juice-trip-11",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-orange-squash-trip-11",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-oven-chips-trip-11",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-penne-trip-11",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-salted-butter-trip-11",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-salted-crisps-trip-11",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-11",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-spaghetti-trip-11",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-sparkling-water-trip-11",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-11",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-11",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-white-bread-trip-11",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-11",
+    "date": "2026-05-09"
+  },
+  {
+    "id": "pur-bananas-trip-12",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-12",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-12",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-12",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-12",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-12",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "pur-milk-arla-semi-2l-trip-12",
+    "productId": "milk-arla-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-12",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "pur-milk-semi-1l-trip-12",
+    "productId": "milk-semi-1l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-12",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-12",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-12",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "pur-white-bread-trip-12",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-12",
+    "date": "2026-05-14"
+  },
+  {
+    "id": "pur-avocados-trip-13",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-baby-spinach-trip-13",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-back-bacon-trip-13",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-baked-beans-trip-13",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-bananas-trip-13",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-basmati-rice-trip-13",
+    "productId": "basmati-rice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-beef-mince-trip-13",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-blueberries-trip-13",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-broccoli-trip-13",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-brown-onions-trip-13",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-carrots-trip-13",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-13",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-chicken-breast-trip-13",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-chickpeas-trip-13",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-clear-honey-trip-13",
+    "productId": "clear-honey",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-cod-fillets-trip-13",
+    "productId": "cod-fillets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-cooked-ham-trip-13",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-couscous-trip-13",
+    "productId": "couscous",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-crumpets-trip-13",
+    "productId": "crumpets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-cucumber-trip-13",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-digestives-trip-13",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-13",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-frozen-berries-trip-13",
+    "productId": "frozen-berries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-fusilli-trip-13",
+    "productId": "fusilli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-gala-apples-trip-13",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-garden-peas-trip-13",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-garlic-trip-13",
+    "productId": "garlic",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-13",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-ground-coffee-trip-13",
+    "productId": "ground-coffee",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-halloumi-trip-13",
+    "productId": "halloumi",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-instant-coffee-trip-13",
+    "productId": "instant-coffee",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-jaffa-cakes-trip-13",
+    "productId": "jaffa-cakes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-kitchen-towel-trip-13",
+    "productId": "kitchen-towel",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-lemons-trip-13",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-maris-piper-trip-13",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-13",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-13",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-13",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-mozzarella-trip-13",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-mushrooms-trip-13",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-orange-juice-trip-13",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-orange-squash-trip-13",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-oven-chips-trip-13",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-penne-trip-13",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-pepperoni-pizza-trip-13",
+    "productId": "pepperoni-pizza",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-pork-chops-trip-13",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-pork-sausages-trip-13",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-salad-bag-trip-13",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-salmon-fillets-trip-13",
+    "productId": "salmon-fillets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-salted-butter-trip-13",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-salted-crisps-trip-13",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-13",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-shower-gel-trip-13",
+    "productId": "shower-gel",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-spaghetti-trip-13",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-sparkling-water-trip-13",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-sponge-scourers-trip-13",
+    "productId": "sponge-scourers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-stock-cubes-trip-13",
+    "productId": "stock-cubes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-strawberries-trip-13",
+    "productId": "strawberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-sweet-popcorn-trip-13",
+    "productId": "sweet-popcorn",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-teabags-trip-13",
+    "productId": "teabags",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-tikka-paste-trip-13",
+    "productId": "tikka-paste",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-13",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-13",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-tuna-chunks-trip-13",
+    "productId": "tuna-chunks",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-13",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-white-bread-trip-13",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-whole-chicken-trip-13",
+    "productId": "whole-chicken",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-13",
+    "date": "2026-05-23"
+  },
+  {
+    "id": "pur-avocados-trip-14",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-baby-spinach-trip-14",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-back-bacon-trip-14",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-baked-beans-trip-14",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-bananas-trip-14",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-beef-mince-trip-14",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-blueberries-trip-14",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-broccoli-trip-14",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-brown-onions-trip-14",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-carrots-trip-14",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-14",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-chickpeas-trip-14",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-cooked-ham-trip-14",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-cucumber-trip-14",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-digestives-trip-14",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-14",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-gala-apples-trip-14",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-garden-peas-trip-14",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-gf-white-loaf-trip-14",
+    "productId": "gf-white-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-14",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-lemons-trip-14",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-maris-piper-trip-14",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-14",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-14",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-14",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-mozzarella-trip-14",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-mushrooms-trip-14",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-orange-juice-trip-14",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-orange-squash-trip-14",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-oven-chips-trip-14",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-penne-trip-14",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-pork-chops-trip-14",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-pork-sausages-trip-14",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-salad-bag-trip-14",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-salted-crisps-trip-14",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-14",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-spaghetti-trip-14",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-sparkling-water-trip-14",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-14",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-14",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-14",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-white-bread-trip-14",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-14",
+    "date": "2026-06-06"
+  },
+  {
+    "id": "pur-bananas-trip-15",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-15",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-15",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-15",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-15",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-15",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "pur-milk-semi-1l-trip-15",
+    "productId": "milk-semi-1l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-15",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "pur-white-bread-trip-15",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-15",
+    "date": "2026-06-11"
+  },
+  {
+    "id": "pur-apple-juice-trip-16",
+    "productId": "apple-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-avocados-trip-16",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-baby-spinach-trip-16",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-back-bacon-trip-16",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-baked-beans-trip-16",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-bananas-trip-16",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-beef-mince-trip-16",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-blueberries-trip-16",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-broccoli-trip-16",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-brown-onions-trip-16",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-carrots-trip-16",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-cereal-bars-trip-16",
+    "productId": "cereal-bars",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-16",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-chicken-breast-trip-16",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-chicken-drumsticks-trip-16",
+    "productId": "chicken-drumsticks",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-chickpeas-trip-16",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-chopped-tomatoes-trip-16",
+    "productId": "chopped-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-cola-trip-16",
+    "productId": "cola",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-cooked-ham-trip-16",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-cornflakes-trip-16",
+    "productId": "cornflakes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-courgettes-trip-16",
+    "productId": "courgettes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-cucumber-trip-16",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-dairy-milk-bar-trip-16",
+    "productId": "dairy-milk-bar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-digestives-trip-16",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-16",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-gala-apples-trip-16",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-garden-peas-trip-16",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-16",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-kidney-beans-trip-16",
+    "productId": "kidney-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-laundry-liquid-trip-16",
+    "productId": "laundry-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-lemons-trip-16",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-maris-piper-trip-16",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-16",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-16",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-milk-whole-2l-trip-16",
+    "productId": "milk-whole-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-16",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-mixed-vegetables-trip-16",
+    "productId": "mixed-vegetables",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-mozzarella-trip-16",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-mushrooms-trip-16",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-oat-drink-trip-16",
+    "productId": "oat-drink",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-orange-juice-trip-16",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-orange-squash-trip-16",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-oven-chips-trip-16",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-peanut-butter-trip-16",
+    "productId": "peanut-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-penne-trip-16",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-pitta-bread-trip-16",
+    "productId": "pitta-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-pork-chops-trip-16",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-pork-mince-trip-16",
+    "productId": "pork-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-pork-sausages-trip-16",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-salad-bag-trip-16",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-salted-butter-trip-16",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-salted-crisps-trip-16",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-salted-peanuts-trip-16",
+    "productId": "salted-peanuts",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-16",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-soft-cheese-trip-16",
+    "productId": "soft-cheese",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-spaghetti-trip-16",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-sparkling-water-trip-16",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-spring-onions-trip-16",
+    "productId": "spring-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-sweetcorn-tin-trip-16",
+    "productId": "sweetcorn-tin",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-16",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-16",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-vanilla-ice-cream-trip-16",
+    "productId": "vanilla-ice-cream",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-16",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-white-bread-trip-16",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-16",
+    "date": "2026-06-20"
+  },
+  {
+    "id": "pur-avocados-trip-17",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-baby-spinach-trip-17",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-back-bacon-trip-17",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-baked-beans-trip-17",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-bananas-trip-17",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-beef-mince-trip-17",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-broccoli-trip-17",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-brown-onions-trip-17",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-carrots-trip-17",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-17",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-cooked-ham-trip-17",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-cucumber-trip-17",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-17",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-fusilli-trip-17",
+    "productId": "fusilli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-gala-apples-trip-17",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-garden-peas-trip-17",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-gf-white-loaf-trip-17",
+    "productId": "gf-white-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-17",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-lemons-trip-17",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-maris-piper-trip-17",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-17",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-17",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-17",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-mushrooms-trip-17",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-orange-juice-trip-17",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-penne-trip-17",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-pork-chops-trip-17",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-pork-sausages-trip-17",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-salad-bag-trip-17",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-salted-crisps-trip-17",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-sparkling-water-trip-17",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-17",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-17",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-white-bread-trip-17",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-17",
+    "date": "2026-07-04"
+  },
+  {
+    "id": "pur-bananas-trip-18",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-18",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-18",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-18",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-18",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-18",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-18",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-18",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "pur-white-bread-trip-18",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-18",
+    "date": "2026-07-09"
+  },
+  {
+    "id": "pur-avocados-trip-19",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-baby-spinach-trip-19",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-back-bacon-trip-19",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-baked-beans-trip-19",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-bananas-trip-19",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-beef-mince-trip-19",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-blueberries-trip-19",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-broccoli-trip-19",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-brown-onions-trip-19",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-carrots-trip-19",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-19",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-chicken-breast-trip-19",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-chickpeas-trip-19",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-cooked-ham-trip-19",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-cucumber-trip-19",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-digestives-trip-19",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-gala-apples-trip-19",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-garden-peas-trip-19",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-19",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-lemons-trip-19",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-maris-piper-trip-19",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-19",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-19",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-19",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-mozzarella-trip-19",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-mushrooms-trip-19",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-orange-juice-trip-19",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-orange-squash-trip-19",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-oven-chips-trip-19",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-penne-trip-19",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-pork-chops-trip-19",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-pork-sausages-trip-19",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-salad-bag-trip-19",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-salted-butter-trip-19",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-salted-crisps-trip-19",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-19",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-spaghetti-trip-19",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-sparkling-water-trip-19",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-19",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-19",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-19",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-white-bread-trip-19",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-19",
+    "date": "2026-07-18"
+  },
+  {
+    "id": "pur-avocados-trip-20",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-baby-spinach-trip-20",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-back-bacon-trip-20",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-baked-beans-trip-20",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-bananas-trip-20",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-beef-mince-trip-20",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-blueberries-trip-20",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-broccoli-trip-20",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-brown-onions-trip-20",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-carrots-trip-20",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-20",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-chickpeas-trip-20",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-cooked-ham-trip-20",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-cucumber-trip-20",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-digestives-trip-20",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-20",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-gala-apples-trip-20",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-garden-peas-trip-20",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-20",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-houmous-trip-20",
+    "productId": "houmous",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-lemons-trip-20",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-maris-piper-trip-20",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-20",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-20",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-20",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-mozzarella-trip-20",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-mushrooms-trip-20",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-orange-juice-trip-20",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-orange-squash-trip-20",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-oven-chips-trip-20",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-penne-trip-20",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-pork-chops-trip-20",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-pork-sausages-trip-20",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-salad-bag-trip-20",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-salted-crisps-trip-20",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-20",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-spaghetti-trip-20",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-sparkling-water-trip-20",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-20",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-20",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-20",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-white-bread-trip-20",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-20",
+    "date": "2026-08-01"
+  },
+  {
+    "id": "pur-bananas-trip-21",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-21",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-21",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-houmous-trip-21",
+    "productId": "houmous",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-milk-semi-1l-trip-21",
+    "productId": "milk-semi-1l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-21",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-salad-bag-trip-21",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-white-bread-trip-21",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-21",
+    "date": "2026-08-06"
+  },
+  {
+    "id": "pur-apple-juice-trip-22",
+    "productId": "apple-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-avocados-trip-22",
+    "productId": "avocados",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-baby-spinach-trip-22",
+    "productId": "baby-spinach",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-back-bacon-trip-22",
+    "productId": "back-bacon",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-bagels-trip-22",
+    "productId": "bagels",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-baked-beans-trip-22",
+    "productId": "baked-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-bananas-trip-22",
+    "productId": "bananas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-basmati-rice-trip-22",
+    "productId": "basmati-rice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-beef-mince-trip-22",
+    "productId": "beef-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-bin-liners-trip-22",
+    "productId": "bin-liners",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-blueberries-trip-22",
+    "productId": "blueberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-broccoli-trip-22",
+    "productId": "broccoli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-brown-onions-trip-22",
+    "productId": "brown-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-carrots-trip-22",
+    "productId": "carrots",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cereal-bars-trip-22",
+    "productId": "cereal-bars",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cherry-tomatoes-trip-22",
+    "productId": "cherry-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-chicken-breast-trip-22",
+    "productId": "chicken-breast",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-chicken-drumsticks-trip-22",
+    "productId": "chicken-drumsticks",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-chicken-thighs-trip-22",
+    "productId": "chicken-thighs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-chickpeas-trip-22",
+    "productId": "chickpeas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-chopped-tomatoes-trip-22",
+    "productId": "chopped-tomatoes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-clear-honey-trip-22",
+    "productId": "clear-honey",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cod-fillets-trip-22",
+    "productId": "cod-fillets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cola-trip-22",
+    "productId": "cola",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cooked-ham-trip-22",
+    "productId": "cooked-ham",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cooked-king-prawns-trip-22",
+    "productId": "cooked-king-prawns",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cornflakes-trip-22",
+    "productId": "cornflakes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-courgettes-trip-22",
+    "productId": "courgettes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-couscous-trip-22",
+    "productId": "couscous",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-croissants-trip-22",
+    "productId": "croissants",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-crumpets-trip-22",
+    "productId": "crumpets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-cucumber-trip-22",
+    "productId": "cucumber",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-dairy-milk-bar-trip-22",
+    "productId": "dairy-milk-bar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-dark-chocolate-trip-22",
+    "productId": "dark-chocolate",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-digestives-trip-22",
+    "productId": "digestives",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-double-cream-trip-22",
+    "productId": "double-cream",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-fish-fingers-trip-22",
+    "productId": "fish-fingers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-free-range-eggs-trip-22",
+    "productId": "free-range-eggs",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-frozen-berries-trip-22",
+    "productId": "frozen-berries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-fusilli-trip-22",
+    "productId": "fusilli",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-gala-apples-trip-22",
+    "productId": "gala-apples",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-garden-peas-trip-22",
+    "productId": "garden-peas",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-garlic-trip-22",
+    "productId": "garlic",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-gf-brown-loaf-trip-22",
+    "productId": "gf-brown-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-gf-penne-trip-22",
+    "productId": "gf-penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-gf-white-loaf-trip-22",
+    "productId": "gf-white-loaf",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-greek-yoghurt-trip-22",
+    "productId": "greek-yoghurt",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-green-tea-trip-22",
+    "productId": "green-tea",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-ground-coffee-trip-22",
+    "productId": "ground-coffee",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-halloumi-trip-22",
+    "productId": "halloumi",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-houmous-trip-22",
+    "productId": "houmous",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-instant-coffee-trip-22",
+    "productId": "instant-coffee",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-jaffa-cakes-trip-22",
+    "productId": "jaffa-cakes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-kidney-beans-trip-22",
+    "productId": "kidney-beans",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-kitchen-foil-trip-22",
+    "productId": "kitchen-foil",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-kitchen-towel-trip-22",
+    "productId": "kitchen-towel",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-lamb-mince-trip-22",
+    "productId": "lamb-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-laundry-liquid-trip-22",
+    "productId": "laundry-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-lemons-trip-22",
+    "productId": "lemons",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-maris-piper-trip-22",
+    "productId": "maris-piper",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-mature-cheddar-trip-22",
+    "productId": "mature-cheddar",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-milk-semi-2l-trip-22",
+    "productId": "milk-semi-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-milk-whole-2l-trip-22",
+    "productId": "milk-whole-2l",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-mixed-peppers-trip-22",
+    "productId": "mixed-peppers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-mixed-vegetables-trip-22",
+    "productId": "mixed-vegetables",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-mozzarella-trip-22",
+    "productId": "mozzarella",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-mushrooms-trip-22",
+    "productId": "mushrooms",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-oat-drink-trip-22",
+    "productId": "oat-drink",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-olive-oil-trip-22",
+    "productId": "olive-oil",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-orange-juice-trip-22",
+    "productId": "orange-juice",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-orange-squash-trip-22",
+    "productId": "orange-squash",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-oven-chips-trip-22",
+    "productId": "oven-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-peanut-butter-trip-22",
+    "productId": "peanut-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-penne-trip-22",
+    "productId": "penne",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-pepperoni-pizza-trip-22",
+    "productId": "pepperoni-pizza",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-pitta-bread-trip-22",
+    "productId": "pitta-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-pork-chops-trip-22",
+    "productId": "pork-chops",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-pork-mince-trip-22",
+    "productId": "pork-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-pork-sausages-trip-22",
+    "productId": "pork-sausages",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-porridge-oats-trip-22",
+    "productId": "porridge-oats",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-root-ginger-trip-22",
+    "productId": "root-ginger",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-salad-bag-trip-22",
+    "productId": "salad-bag",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-salmon-fillets-trip-22",
+    "productId": "salmon-fillets",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-salted-butter-trip-22",
+    "productId": "salted-butter",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-salted-crisps-trip-22",
+    "productId": "salted-crisps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-salted-peanuts-trip-22",
+    "productId": "salted-peanuts",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-salted-pretzels-trip-22",
+    "productId": "salted-pretzels",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-seedless-grapes-trip-22",
+    "productId": "seedless-grapes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-shampoo-trip-22",
+    "productId": "shampoo",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-shower-gel-trip-22",
+    "productId": "shower-gel",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-soft-cheese-trip-22",
+    "productId": "soft-cheese",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-soy-sauce-trip-22",
+    "productId": "soy-sauce",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-spaghetti-trip-22",
+    "productId": "spaghetti",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-sparkling-water-trip-22",
+    "productId": "sparkling-water",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-sponge-scourers-trip-22",
+    "productId": "sponge-scourers",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-spring-onions-trip-22",
+    "productId": "spring-onions",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-stock-cubes-trip-22",
+    "productId": "stock-cubes",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-strawberries-trip-22",
+    "productId": "strawberries",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-sweet-popcorn-trip-22",
+    "productId": "sweet-popcorn",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-sweetcorn-tin-trip-22",
+    "productId": "sweetcorn-tin",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-teabags-trip-22",
+    "productId": "teabags",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-tikka-paste-trip-22",
+    "productId": "tikka-paste",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-toothpaste-trip-22",
+    "productId": "toothpaste",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-tortilla-chips-trip-22",
+    "productId": "tortilla-chips",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-tortilla-wraps-trip-22",
+    "productId": "tortilla-wraps",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-tuna-chunks-trip-22",
+    "productId": "tuna-chunks",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-turkey-mince-trip-22",
+    "productId": "turkey-mince",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-vanilla-ice-cream-trip-22",
+    "productId": "vanilla-ice-cream",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-washing-up-liquid-trip-22",
+    "productId": "washing-up-liquid",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-white-bread-trip-22",
+    "productId": "white-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-whole-chicken-trip-22",
+    "productId": "whole-chicken",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  },
+  {
+    "id": "pur-wholemeal-bread-trip-22",
+    "productId": "wholemeal-bread",
+    "storeId": "tesco-express-poplar-high-st",
+    "tripId": "trip-22",
+    "date": "2026-08-15"
+  }
+]

@@ -1,0 +1,555 @@
+@import "tailwindcss";
+
+/*
+  UI tokens stay few. Ripe is the friendly primary from the later
+  wireframes; halt is still reserved for the locked-item screen.
+  Illustration fills live on ProductMark, not here.
+*/
+:root {
+  --ink: #14161a;
+  --paper: #fbfaf4;
+  --wash: #f4f2e9;
+  --shelf: #ffffff;
+  --concrete: #8a8f98;
+  --wayfind: #1e4fd8;
+  --halt: #c4291f;
+  --ripe: #c9e36a;
+  --ripe-wash: #eef4da;
+  --grove: #14361f;
+  --grove-deep: #0d2415;
+  --linen: #f6f1df;
+  --ripe-strong: #a8c42a;
+}
+
+@theme inline {
+  --color-ink: var(--ink);
+  --color-paper: var(--paper);
+  --color-wash: var(--wash);
+  --color-shelf: var(--shelf);
+  --color-concrete: var(--concrete);
+  --color-wayfind: var(--wayfind);
+  --color-halt: var(--halt);
+  --color-ripe: var(--ripe);
+  --color-ripe-wash: var(--ripe-wash);
+  --color-grove: var(--grove);
+  --color-grove-deep: var(--grove-deep);
+  --color-linen: var(--linen);
+
+  --font-display: var(--font-archivo);
+  --font-body: var(--font-instrument-sans);
+  --font-mono: var(--font-dm-mono);
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-instrument-sans), system-ui, sans-serif;
+  font-size: 17px;
+  line-height: 1.45;
+}
+
+.ink-ground {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.grove-ground { background: var(--grove); color: var(--linen); }
+.grove-ground :focus-visible { outline-color: var(--linen); }
+.grove-ground .t-reason { color: color-mix(in srgb, var(--linen) 68%, transparent); }
+.grove-ground .t-data { color: color-mix(in srgb, var(--linen) 78%, transparent); }
+.btn-ripe-on-grove { background: var(--ripe-strong); color: var(--grove); }
+
+/* ---- type scale ------------------------------------------------------- */
+
+.t-aisle {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-size: 64px;
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  line-height: 0.85;
+  font-stretch: 125%;
+}
+
+.t-item {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-size: 32px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.1;
+  font-stretch: 112%;
+}
+
+.t-title {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  font-stretch: 112%;
+}
+
+.t-list {
+  font-size: 17px;
+  font-weight: 400;
+}
+
+.t-reason {
+  font-size: 13px;
+  font-weight: 400;
+  color: var(--concrete);
+  line-height: 1.4;
+}
+
+.t-data {
+  font-family: var(--font-dm-mono), ui-monospace, monospace;
+  font-size: 12px;
+  font-weight: 400;
+  letter-spacing: 0.04em;
+}
+
+/* ---- controls --------------------------------------------------------- */
+
+button,
+a,
+input,
+[tabindex] {
+  outline-color: var(--wayfind);
+}
+
+:focus-visible {
+  outline: 2px solid var(--wayfind);
+  outline-offset: 2px;
+  border-radius: 10px;
+}
+
+.ink-ground :focus-visible {
+  outline-color: var(--paper);
+}
+
+.btn {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 16px;
+  font-size: 16px;
+  line-height: 1;
+  text-align: center;
+}
+
+.btn-56 {
+  height: 56px;
+}
+
+.btn-48 {
+  height: 48px;
+}
+
+.btn-ripe {
+  background: var(--ripe);
+  color: var(--ink);
+}
+
+.btn-ink {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+.btn-outline {
+  border: 1.5px solid var(--ink);
+  color: var(--ink);
+  background: transparent;
+}
+
+.btn-ghost {
+  border: 1.5px solid color-mix(in srgb, currentColor 35%, transparent);
+  background: transparent;
+}
+
+.btn:disabled,
+.btn[aria-disabled="true"] {
+  background: var(--concrete);
+  color: var(--paper);
+  border-color: transparent;
+}
+
+.plate {
+  display: inline-flex;
+  align-items: center;
+  justify-content: center;
+  width: 44px;
+  height: 44px;
+  flex: none;
+  border-radius: 14px;
+}
+
+.cross {
+  font-size: 26px;
+  line-height: 1;
+  font-weight: 400;
+}
+
+/* ---- the one animation ------------------------------------------------ */
+
+@keyframes split-flap {
+  0% {
+    transform: rotateX(-90deg);
+    opacity: 0;
+  }
+  60% {
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+  100% {
+    transform: rotateX(0deg);
+    opacity: 1;
+  }
+}
+
+.split-flap {
+  transform-origin: top center;
+  animation: split-flap 260ms cubic-bezier(0.2, 0.8, 0.3, 1) both;
+}
+
+@keyframes fade-in {
+  from {
+    opacity: 0;
+  }
+  to {
+    opacity: 1;
+  }
+}
+
+.fade-in {
+  animation: fade-in 120ms linear both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .split-flap,
+  .fade-in {
+    animation: fade-in 120ms linear both;
+  }
+}
+
+/* ---- into the trolley -------------------------------------------------- */
+
+/*
+  The item leaves before the next one arrives, so the screen never sits empty
+  waiting for a flourish. State is committed on the tap; this layer is a copy
+  of the mark that was on screen, falling out of frame on its own timeline.
+  One lift, one fall, 420ms — the weight of putting something down, not a
+  celebration of it.
+*/
+.drop-layer {
+  position: fixed;
+  z-index: 40;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  pointer-events: none;
+}
+
+@keyframes drop-to-trolley {
+  0% {
+    transform: translateY(0) scale(1) rotate(0deg);
+    opacity: 1;
+  }
+  20% {
+    transform: translateY(-16px) scale(1.05) rotate(-4deg);
+    opacity: 1;
+  }
+  100% {
+    transform: translateY(52vh) scale(0.4) rotate(10deg);
+    opacity: 0;
+  }
+}
+
+.drop-layer > * {
+  animation: drop-to-trolley 420ms cubic-bezier(0.4, 0, 0.7, 1) both;
+}
+
+/* The bar catches what the mark dropped: it fills as the fall lands. */
+@keyframes hairline-land {
+  0%,
+  55% {
+    transform: scaleY(1);
+  }
+  75% {
+    transform: scaleY(3.2);
+  }
+  100% {
+    transform: scaleY(1);
+  }
+}
+
+.hairline-land {
+  animation: hairline-land 460ms cubic-bezier(0.2, 0.8, 0.3, 1) both;
+}
+
+/* ---- swipe ------------------------------------------------------------- */
+
+/*
+  The card moves under the thumb, so there is no animation here at all while
+  the gesture is live — only the spring back when it is let go short of the
+  threshold. `pan-y` hands vertical drags to the browser without asking.
+*/
+.swipe-stage {
+  position: relative;
+  display: flex;
+  flex-grow: 1;
+}
+
+.swipe-card {
+  display: flex;
+  flex-grow: 1;
+  flex-direction: column;
+  touch-action: pan-y;
+  will-change: transform;
+}
+
+.swipe-settling {
+  transition: transform 180ms cubic-bezier(0.2, 0.8, 0.3, 1);
+}
+
+.swipe-reveal {
+  position: absolute;
+  inset: 20px 0 auto;
+  display: flex;
+  align-items: center;
+  height: 150px;
+  padding: 0 22px;
+  border-radius: 24px;
+  pointer-events: none;
+}
+
+.swipe-reveal-right {
+  justify-content: flex-start;
+  background: color-mix(in srgb, var(--ripe) 22%, transparent);
+  color: var(--ripe);
+}
+
+.swipe-reveal-left {
+  justify-content: flex-end;
+  background: color-mix(in srgb, var(--paper) 10%, transparent);
+  color: var(--paper);
+}
+
+/* Crossing the threshold is the one thing the eye must not miss. */
+.swipe-armed {
+  padding: 6px 10px;
+  border-radius: 10px;
+  background: var(--ripe);
+  color: var(--ink);
+}
+
+.swipe-reveal-left .swipe-armed {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .swipe-settling {
+    transition-duration: 1ms;
+  }
+}
+
+/* The next item rises into the place the last one left. */
+.stage-in {
+  animation: sheet-rise 160ms cubic-bezier(0.2, 0.8, 0.3, 1) both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .drop-layer > *,
+  .hairline-land,
+  .stage-in {
+    animation: fade-in 120ms linear both;
+  }
+}
+
+/* ---- trip mode, landscape --------------------------------------------- */
+
+.trip-layout {
+  display: flex;
+  flex-direction: column;
+  min-height: 100dvh;
+}
+
+.trip-stage {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+}
+
+.trip-actions {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+}
+
+@media (min-width: 1024px) and (min-height: 600px) and (orientation: landscape) {
+  .trip-body {
+    display: grid;
+    grid-template-columns: 1fr minmax(280px, 360px);
+    gap: 48px;
+    flex-grow: 1;
+    align-items: stretch;
+  }
+
+  .trip-actions {
+    justify-content: flex-end;
+  }
+}
+
+.no-scrollbar {
+  -ms-overflow-style: none;
+  scrollbar-width: none;
+}
+
+.no-scrollbar::-webkit-scrollbar {
+  display: none;
+}
+
+/* ---- sheets ------------------------------------------------------------ */
+
+.t-sheet-title {
+  font-family: var(--font-archivo), system-ui, sans-serif;
+  font-size: 22px;
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  line-height: 1.15;
+  font-stretch: 112%;
+}
+
+/* The list stays visible behind the first-run card: the shopper should see
+   the thing they are about to use, not a black screen. */
+.sheet-scrim {
+  background: color-mix(in srgb, var(--ink) 25%, transparent);
+}
+
+@keyframes sheet-rise {
+  from {
+    transform: translateY(8px);
+    opacity: 0;
+  }
+  to {
+    transform: translateY(0);
+    opacity: 1;
+  }
+}
+
+.sheet-rise {
+  animation: sheet-rise 120ms linear both;
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .sheet-rise {
+    animation: fade-in 120ms linear both;
+  }
+}
+
+/* ---- hover ------------------------------------------------------------- */
+
+/*
+  Gated on a real pointer.
+
+  On a touch screen :hover latches after a tap and the control stays lit as
+  though it were still held — which, halfway down an aisle, reads as "did that
+  register?". A phone gets no hover state at all, which is the correct amount.
+
+  Inside the motion budget: colour at 120ms, nothing that moves.
+*/
+
+button:not(:disabled),
+[role="button"]:not([aria-disabled="true"]) {
+  cursor: pointer;
+}
+
+.btn:disabled,
+.btn[aria-disabled="true"] {
+  cursor: default;
+}
+
+@media (hover: hover) and (pointer: fine) {
+  .btn,
+  .plate,
+  .press {
+    transition:
+      background-color 120ms linear,
+      border-color 120ms linear,
+      box-shadow 120ms linear;
+  }
+
+  /* Filled buttons move a step toward their own ground, so the shift reads as
+     the same button rather than a different colour. */
+  .btn-ink:not(:disabled):hover {
+    background: color-mix(in srgb, var(--ink) 88%, var(--paper));
+  }
+
+  .btn-ripe:not(:disabled):hover {
+    background: color-mix(in srgb, var(--ripe) 88%, var(--ink));
+  }
+
+  .btn-ripe-on-grove:not(:disabled):hover {
+    background: color-mix(in srgb, var(--ripe-strong) 88%, var(--linen));
+  }
+
+  .btn-outline:not(:disabled):hover {
+    background: color-mix(in srgb, var(--ink) 6%, transparent);
+  }
+
+  .btn-ghost:not(:disabled):hover {
+    border-color: color-mix(in srgb, currentColor 60%, transparent);
+    background: color-mix(in srgb, currentColor 7%, transparent);
+  }
+
+  /* Plates and whole blocks that are really one big button. The wash is in the
+     ink already on the surface, so one rule covers every tile colour and both
+     grounds without naming a new one. */
+  .plate:not(:disabled):hover,
+  .press:not(:disabled):hover {
+    box-shadow: inset 0 0 0 999px
+      color-mix(in srgb, currentColor 7%, transparent);
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .btn,
+  .plate,
+  .press {
+    transition: none;
+  }
+}
+
+/* ---- page transitions -------------------------------------------------- */
+
+/*
+  The ground is on the shell and does not fade, so an incoming page never
+  shows the wrong colour underneath itself for a frame. See app/template.tsx.
+*/
+.page-shell {
+  min-height: 100dvh;
+}
+
+.page-shell[data-ground="wash"] {
+  background: var(--wash);
+}
+
+.page-shell[data-ground="ink"] {
+  background: var(--ink);
+}
+
+.page-shell[data-ground="grove"] {
+  background: var(--grove);
+}
+
+.page-enter {
+  animation: fade-in 120ms linear both;
+}
+
+/*
+  Opacity only, so this is already the cross-fade that reduced motion asks for.
+  It is kept, not removed — an instant swap is harsher, not gentler.
+*/

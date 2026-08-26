@@ -1,0 +1,5115 @@
+[
+  {
+    "id": "trip-01",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-02-14T09:20:00Z",
+    "completedAt": "2026-02-14T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-01",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-01",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-01",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-01",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-01",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-01",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-01",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spring-onions-trip-01",
+        "productId": "spring-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-01",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-01",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-01",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-thighs-trip-01",
+        "productId": "chicken-thighs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-01",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salmon-fillets-trip-01",
+        "productId": "salmon-fillets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-king-prawns-trip-01",
+        "productId": "cooked-king-prawns",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-01",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-01",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-01",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-01",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-wholemeal-bread-trip-01",
+        "productId": "wholemeal-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-bagels-trip-01",
+        "productId": "bagels",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-croissants-trip-01",
+        "productId": "croissants",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-white-loaf-trip-01",
+        "productId": "gf-white-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-brown-loaf-trip-01",
+        "productId": "gf-brown-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-penne-trip-01",
+        "productId": "gf-penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-01",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-whole-2l-trip-01",
+        "productId": "milk-whole-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-butter-trip-01",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-01",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-01",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-double-cream-trip-01",
+        "productId": "double-cream",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chopped-tomatoes-trip-01",
+        "productId": "chopped-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-01",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-olive-oil-trip-01",
+        "productId": "olive-oil",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tuna-chunks-trip-01",
+        "productId": "tuna-chunks",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-fusilli-trip-01",
+        "productId": "fusilli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-01",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-basmati-rice-trip-01",
+        "productId": "basmati-rice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-teabags-trip-01",
+        "productId": "teabags",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-ground-coffee-trip-01",
+        "productId": "ground-coffee",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-01",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-dark-chocolate-trip-01",
+        "productId": "dark-chocolate",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-porridge-oats-trip-01",
+        "productId": "porridge-oats",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-01",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-vegetables-trip-01",
+        "productId": "mixed-vegetables",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-fish-fingers-trip-01",
+        "productId": "fish-fingers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-01",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kitchen-towel-trip-01",
+        "productId": "kitchen-towel",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-bin-liners-trip-01",
+        "productId": "bin-liners",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-toothpaste-trip-01",
+        "productId": "toothpaste",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-01",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-01",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-mince-trip-01",
+        "productId": "pork-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-01",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-drumsticks-trip-01",
+        "productId": "chicken-drumsticks",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-whole-chicken-trip-01",
+        "productId": "whole-chicken",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lamb-mince-trip-01",
+        "productId": "lamb-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cod-fillets-trip-01",
+        "productId": "cod-fillets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-01",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-turkey-mince-trip-01",
+        "productId": "turkey-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-01",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-01",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-01",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-01",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-01",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-01",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-01",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-courgettes-trip-01",
+        "productId": "courgettes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garlic-trip-01",
+        "productId": "garlic",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-root-ginger-trip-01",
+        "productId": "root-ginger",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-strawberries-trip-01",
+        "productId": "strawberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-01",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-01",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-peanuts-trip-01",
+        "productId": "salted-peanuts",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sweet-popcorn-trip-01",
+        "productId": "sweet-popcorn",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-jaffa-cakes-trip-01",
+        "productId": "jaffa-cakes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cereal-bars-trip-01",
+        "productId": "cereal-bars",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-dairy-milk-bar-trip-01",
+        "productId": "dairy-milk-bar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-pretzels-trip-01",
+        "productId": "salted-pretzels",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-01",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-soft-cheese-trip-01",
+        "productId": "soft-cheese",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-halloumi-trip-01",
+        "productId": "halloumi",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oat-drink-trip-01",
+        "productId": "oat-drink",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-01",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pitta-bread-trip-01",
+        "productId": "pitta-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-crumpets-trip-01",
+        "productId": "crumpets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-01",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kidney-beans-trip-01",
+        "productId": "kidney-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sweetcorn-tin-trip-01",
+        "productId": "sweetcorn-tin",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-soy-sauce-trip-01",
+        "productId": "soy-sauce",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tikka-paste-trip-01",
+        "productId": "tikka-paste",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-clear-honey-trip-01",
+        "productId": "clear-honey",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-peanut-butter-trip-01",
+        "productId": "peanut-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-stock-cubes-trip-01",
+        "productId": "stock-cubes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-01",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-couscous-trip-01",
+        "productId": "couscous",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cornflakes-trip-01",
+        "productId": "cornflakes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-instant-coffee-trip-01",
+        "productId": "instant-coffee",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-green-tea-trip-01",
+        "productId": "green-tea",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-01",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-vanilla-ice-cream-trip-01",
+        "productId": "vanilla-ice-cream",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-frozen-berries-trip-01",
+        "productId": "frozen-berries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pepperoni-pizza-trip-01",
+        "productId": "pepperoni-pizza",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-laundry-liquid-trip-01",
+        "productId": "laundry-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sponge-scourers-trip-01",
+        "productId": "sponge-scourers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kitchen-foil-trip-01",
+        "productId": "kitchen-foil",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-shower-gel-trip-01",
+        "productId": "shower-gel",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-shampoo-trip-01",
+        "productId": "shampoo",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-01",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cola-trip-01",
+        "productId": "cola",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-apple-juice-trip-01",
+        "productId": "apple-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-02",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-02-19T09:20:00Z",
+    "completedAt": "2026-02-19T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-02",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-02",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-02",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-02",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-02",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-1l-trip-02",
+        "productId": "milk-semi-1l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-02",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-03",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-02-28T09:20:00Z",
+    "completedAt": "2026-02-28T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-03",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-03",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-03",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-03",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-03",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-03",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-03",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-03",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-03",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-03",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-03",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-03",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-03",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-03",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-03",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-03",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-03",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-03",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-03",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-03",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-03",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-03",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-03",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-03",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-03",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-03",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-03",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-03",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-03",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-03",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-03",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-03",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-03",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-03",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-03",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-03",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-03",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-03",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-03",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-03",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-03",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-04",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-03-05T09:20:00Z",
+    "completedAt": "2026-03-05T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-04",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-04",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-04",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-04",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-04",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-05",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-03-14T09:20:00Z",
+    "completedAt": "2026-03-14T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-05",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-05",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-05",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-05",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-05",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-05",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-05",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-05",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-05",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-05",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-05",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-05",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-05",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-05",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-05",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-arla-semi-2l-trip-05",
+        "productId": "milk-arla-semi-2l",
+        "quantity": 1,
+        "status": "substituted",
+        "substitutedForId": "milk-semi-2l"
+      },
+      {
+        "id": "ti-salted-butter-trip-05",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-05",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-05",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-05",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-05",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-05",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-05",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-05",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-05",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-05",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-05",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-05",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-05",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-05",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-05",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-05",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-05",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-05",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-05",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-05",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-05",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-05",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-05",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-05",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-05",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-05",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-06",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-03-19T09:20:00Z",
+    "completedAt": "2026-03-19T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-06",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-06",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-06",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-06",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-1l-trip-06",
+        "productId": "milk-semi-1l",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-07",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-03-28T09:20:00Z",
+    "completedAt": "2026-03-28T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-07",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-07",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-07",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-07",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-07",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-07",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-07",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-07",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-07",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-07",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-07",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-07",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-07",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-07",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-white-loaf-trip-07",
+        "productId": "gf-white-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-07",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-07",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-07",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-07",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-fusilli-trip-07",
+        "productId": "fusilli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-07",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-07",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-07",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-07",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-07",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-07",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-07",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-07",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-07",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-07",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-07",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-07",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-07",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-07",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-08",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-04-11T09:20:00Z",
+    "completedAt": "2026-04-11T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-08",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-08",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-08",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-08",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-08",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-08",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-08",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spring-onions-trip-08",
+        "productId": "spring-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-08",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-08",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-08",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-08",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-08",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-08",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-08",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-08",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-08",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-whole-2l-trip-08",
+        "productId": "milk-whole-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-butter-trip-08",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-08",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-08",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chopped-tomatoes-trip-08",
+        "productId": "chopped-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-08",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-08",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-08",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-08",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-vegetables-trip-08",
+        "productId": "mixed-vegetables",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-08",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-08",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-08",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-mince-trip-08",
+        "productId": "pork-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-08",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-drumsticks-trip-08",
+        "productId": "chicken-drumsticks",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-08",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-08",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-08",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-08",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-08",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-08",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-08",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-08",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-courgettes-trip-08",
+        "productId": "courgettes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-08",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-08",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-peanuts-trip-08",
+        "productId": "salted-peanuts",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cereal-bars-trip-08",
+        "productId": "cereal-bars",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-dairy-milk-bar-trip-08",
+        "productId": "dairy-milk-bar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-08",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-soft-cheese-trip-08",
+        "productId": "soft-cheese",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oat-drink-trip-08",
+        "productId": "oat-drink",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-08",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pitta-bread-trip-08",
+        "productId": "pitta-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-08",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kidney-beans-trip-08",
+        "productId": "kidney-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sweetcorn-tin-trip-08",
+        "productId": "sweetcorn-tin",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-peanut-butter-trip-08",
+        "productId": "peanut-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-08",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cornflakes-trip-08",
+        "productId": "cornflakes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-08",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-vanilla-ice-cream-trip-08",
+        "productId": "vanilla-ice-cream",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-laundry-liquid-trip-08",
+        "productId": "laundry-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-08",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cola-trip-08",
+        "productId": "cola",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-apple-juice-trip-08",
+        "productId": "apple-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-09",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-04-16T09:20:00Z",
+    "completedAt": "2026-04-16T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-09",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-09",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-09",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-09",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-09",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-arla-semi-2l-trip-09",
+        "productId": "milk-arla-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-10",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-04-25T09:20:00Z",
+    "completedAt": "2026-04-25T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-10",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-10",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-10",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-10",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-10",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-10",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-10",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-10",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-10",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-10",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-10",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-10",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-10",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-10",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-white-loaf-trip-10",
+        "productId": "gf-white-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-10",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-10",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-10",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-10",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-10",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-10",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-10",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-10",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-10",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-10",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-10",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-10",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-10",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-10",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-10",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-10",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-10",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-10",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-10",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-10",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-10",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-10",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-10",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-10",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-10",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-10",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-10",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-11",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-05-09T09:20:00Z",
+    "completedAt": "2026-05-09T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-11",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-11",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-11",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-11",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-11",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-11",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-11",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-11",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-11",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-11",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-11",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-11",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-11",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-11",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-11",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-11",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-butter-trip-11",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-11",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-11",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-11",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-11",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-11",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-11",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-11",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-11",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-11",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-11",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-11",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-11",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-11",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-11",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-11",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-11",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-11",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-12",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-05-14T09:20:00Z",
+    "completedAt": "2026-05-14T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-12",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-12",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-12",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-12",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-12",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-1l-trip-12",
+        "productId": "milk-semi-1l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-arla-semi-2l-trip-12",
+        "productId": "milk-arla-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-13",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-05-23T09:20:00Z",
+    "completedAt": "2026-05-23T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-13",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-13",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-13",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-13",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-13",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-13",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-13",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-13",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-13",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-13",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-13",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salmon-fillets-trip-13",
+        "productId": "salmon-fillets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-13",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-13",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-13",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-13",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-13",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-butter-trip-13",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-13",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-13",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-13",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tuna-chunks-trip-13",
+        "productId": "tuna-chunks",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-fusilli-trip-13",
+        "productId": "fusilli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-13",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-basmati-rice-trip-13",
+        "productId": "basmati-rice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-teabags-trip-13",
+        "productId": "teabags",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-ground-coffee-trip-13",
+        "productId": "ground-coffee",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-13",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-13",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-13",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kitchen-towel-trip-13",
+        "productId": "kitchen-towel",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-13",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-13",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-13",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-whole-chicken-trip-13",
+        "productId": "whole-chicken",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cod-fillets-trip-13",
+        "productId": "cod-fillets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-13",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-13",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-13",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-13",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-13",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-13",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-13",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-13",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garlic-trip-13",
+        "productId": "garlic",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-strawberries-trip-13",
+        "productId": "strawberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-13",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-13",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sweet-popcorn-trip-13",
+        "productId": "sweet-popcorn",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-jaffa-cakes-trip-13",
+        "productId": "jaffa-cakes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-13",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-halloumi-trip-13",
+        "productId": "halloumi",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-13",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-crumpets-trip-13",
+        "productId": "crumpets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-13",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tikka-paste-trip-13",
+        "productId": "tikka-paste",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-clear-honey-trip-13",
+        "productId": "clear-honey",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-stock-cubes-trip-13",
+        "productId": "stock-cubes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-13",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-couscous-trip-13",
+        "productId": "couscous",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-instant-coffee-trip-13",
+        "productId": "instant-coffee",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-13",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-frozen-berries-trip-13",
+        "productId": "frozen-berries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pepperoni-pizza-trip-13",
+        "productId": "pepperoni-pizza",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sponge-scourers-trip-13",
+        "productId": "sponge-scourers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-shower-gel-trip-13",
+        "productId": "shower-gel",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-13",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-14",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-06-06T09:20:00Z",
+    "completedAt": "2026-06-06T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-14",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-14",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-14",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-14",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-14",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-14",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-14",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-14",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-14",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-14",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-14",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-14",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-14",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-14",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-white-loaf-trip-14",
+        "productId": "gf-white-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-14",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-14",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-14",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-14",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-14",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-14",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-14",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-14",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-14",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-14",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-14",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-14",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-14",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-14",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-14",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-14",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-14",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-14",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-14",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-14",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-14",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-14",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-14",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-14",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-14",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-14",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-14",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-15",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-06-11T09:20:00Z",
+    "completedAt": "2026-06-11T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-15",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-15",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-15",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-15",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-1l-trip-15",
+        "productId": "milk-semi-1l",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-16",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-06-20T09:20:00Z",
+    "completedAt": "2026-06-20T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-16",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-16",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-16",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-16",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-16",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-16",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-16",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spring-onions-trip-16",
+        "productId": "spring-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-16",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-16",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-16",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-16",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-16",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-16",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-16",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-16",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-16",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-whole-2l-trip-16",
+        "productId": "milk-whole-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-butter-trip-16",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-16",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-16",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chopped-tomatoes-trip-16",
+        "productId": "chopped-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-16",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-16",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-16",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-16",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-vegetables-trip-16",
+        "productId": "mixed-vegetables",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-16",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-16",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-16",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-mince-trip-16",
+        "productId": "pork-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-16",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-drumsticks-trip-16",
+        "productId": "chicken-drumsticks",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-16",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-16",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-16",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-16",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-16",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-16",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-16",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-16",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-courgettes-trip-16",
+        "productId": "courgettes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-16",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-16",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-peanuts-trip-16",
+        "productId": "salted-peanuts",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cereal-bars-trip-16",
+        "productId": "cereal-bars",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-dairy-milk-bar-trip-16",
+        "productId": "dairy-milk-bar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-16",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-soft-cheese-trip-16",
+        "productId": "soft-cheese",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oat-drink-trip-16",
+        "productId": "oat-drink",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-16",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pitta-bread-trip-16",
+        "productId": "pitta-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-16",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kidney-beans-trip-16",
+        "productId": "kidney-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sweetcorn-tin-trip-16",
+        "productId": "sweetcorn-tin",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-peanut-butter-trip-16",
+        "productId": "peanut-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-16",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cornflakes-trip-16",
+        "productId": "cornflakes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-16",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-vanilla-ice-cream-trip-16",
+        "productId": "vanilla-ice-cream",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-laundry-liquid-trip-16",
+        "productId": "laundry-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-16",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cola-trip-16",
+        "productId": "cola",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-apple-juice-trip-16",
+        "productId": "apple-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-17",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-07-04T09:20:00Z",
+    "completedAt": "2026-07-04T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-17",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-17",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-17",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-17",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-17",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-17",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-17",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-17",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-17",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-17",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-17",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-17",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-17",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-17",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-white-loaf-trip-17",
+        "productId": "gf-white-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-17",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-17",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-17",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-17",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-fusilli-trip-17",
+        "productId": "fusilli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-17",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-17",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-17",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-17",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-17",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-17",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-17",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-17",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-17",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-17",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-17",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-17",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-17",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-17",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-18",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-07-09T09:20:00Z",
+    "completedAt": "2026-07-09T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-18",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-18",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-18",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-18",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-18",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-19",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-07-18T09:20:00Z",
+    "completedAt": "2026-07-18T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-19",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-19",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-19",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-19",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-19",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-19",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-19",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-19",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-19",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-19",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-19",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-19",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-19",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-19",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-19",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-19",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-butter-trip-19",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-19",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-19",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-19",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-19",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-19",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-19",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-19",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-19",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-19",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-19",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-19",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-19",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-19",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-19",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-19",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-19",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-19",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-19",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-19",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-19",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-19",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-19",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-19",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-19",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-19",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-20",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-08-01T09:20:00Z",
+    "completedAt": "2026-08-01T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-20",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-20",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-20",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-20",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-20",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-20",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-20",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-20",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-20",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-20",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-20",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-houmous-trip-20",
+        "productId": "houmous",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-20",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-20",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-20",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-20",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-20",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-20",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-20",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-20",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-20",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-20",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-20",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-20",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-20",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-20",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-20",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-20",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-20",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-20",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-20",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-20",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-20",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-20",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-20",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-20",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-20",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-20",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-20",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-20",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-20",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-20",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-21",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-08-06T09:20:00Z",
+    "completedAt": "2026-08-06T10:05:00Z",
+    "kind": "topup",
+    "items": [
+      {
+        "id": "ti-bananas-trip-21",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-21",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-houmous-trip-21",
+        "productId": "houmous",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-21",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-21",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-21",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-1l-trip-21",
+        "productId": "milk-semi-1l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-21",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  },
+  {
+    "id": "trip-22",
+    "storeId": "tesco-express-poplar-high-st",
+    "startedAt": "2026-08-15T09:20:00Z",
+    "completedAt": "2026-08-15T10:05:00Z",
+    "kind": "big",
+    "items": [
+      {
+        "id": "ti-bananas-trip-22",
+        "productId": "bananas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cherry-tomatoes-trip-22",
+        "productId": "cherry-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baby-spinach-trip-22",
+        "productId": "baby-spinach",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-carrots-trip-22",
+        "productId": "carrots",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gala-apples-trip-22",
+        "productId": "gala-apples",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-avocados-trip-22",
+        "productId": "avocados",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-brown-onions-trip-22",
+        "productId": "brown-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spring-onions-trip-22",
+        "productId": "spring-onions",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-maris-piper-trip-22",
+        "productId": "maris-piper",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lemons-trip-22",
+        "productId": "lemons",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-breast-trip-22",
+        "productId": "chicken-breast",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-thighs-trip-22",
+        "productId": "chicken-thighs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-beef-mince-trip-22",
+        "productId": "beef-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salmon-fillets-trip-22",
+        "productId": "salmon-fillets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-king-prawns-trip-22",
+        "productId": "cooked-king-prawns",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-back-bacon-trip-22",
+        "productId": "back-bacon",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-houmous-trip-22",
+        "productId": "houmous",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-juice-trip-22",
+        "productId": "orange-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-greek-yoghurt-trip-22",
+        "productId": "greek-yoghurt",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-white-bread-trip-22",
+        "productId": "white-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-wholemeal-bread-trip-22",
+        "productId": "wholemeal-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-bagels-trip-22",
+        "productId": "bagels",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-croissants-trip-22",
+        "productId": "croissants",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-white-loaf-trip-22",
+        "productId": "gf-white-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-brown-loaf-trip-22",
+        "productId": "gf-brown-loaf",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-gf-penne-trip-22",
+        "productId": "gf-penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-semi-2l-trip-22",
+        "productId": "milk-semi-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-milk-whole-2l-trip-22",
+        "productId": "milk-whole-2l",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-butter-trip-22",
+        "productId": "salted-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mature-cheddar-trip-22",
+        "productId": "mature-cheddar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-free-range-eggs-trip-22",
+        "productId": "free-range-eggs",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-double-cream-trip-22",
+        "productId": "double-cream",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chopped-tomatoes-trip-22",
+        "productId": "chopped-tomatoes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-baked-beans-trip-22",
+        "productId": "baked-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-olive-oil-trip-22",
+        "productId": "olive-oil",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tuna-chunks-trip-22",
+        "productId": "tuna-chunks",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-fusilli-trip-22",
+        "productId": "fusilli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-penne-trip-22",
+        "productId": "penne",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-basmati-rice-trip-22",
+        "productId": "basmati-rice",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-teabags-trip-22",
+        "productId": "teabags",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-ground-coffee-trip-22",
+        "productId": "ground-coffee",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-crisps-trip-22",
+        "productId": "salted-crisps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-dark-chocolate-trip-22",
+        "productId": "dark-chocolate",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-porridge-oats-trip-22",
+        "productId": "porridge-oats",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garden-peas-trip-22",
+        "productId": "garden-peas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-vegetables-trip-22",
+        "productId": "mixed-vegetables",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-fish-fingers-trip-22",
+        "productId": "fish-fingers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-washing-up-liquid-trip-22",
+        "productId": "washing-up-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kitchen-towel-trip-22",
+        "productId": "kitchen-towel",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-bin-liners-trip-22",
+        "productId": "bin-liners",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-toothpaste-trip-22",
+        "productId": "toothpaste",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sparkling-water-trip-22",
+        "productId": "sparkling-water",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-chops-trip-22",
+        "productId": "pork-chops",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-mince-trip-22",
+        "productId": "pork-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pork-sausages-trip-22",
+        "productId": "pork-sausages",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chicken-drumsticks-trip-22",
+        "productId": "chicken-drumsticks",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-whole-chicken-trip-22",
+        "productId": "whole-chicken",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-lamb-mince-trip-22",
+        "productId": "lamb-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cod-fillets-trip-22",
+        "productId": "cod-fillets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cooked-ham-trip-22",
+        "productId": "cooked-ham",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-turkey-mince-trip-22",
+        "productId": "turkey-mince",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-broccoli-trip-22",
+        "productId": "broccoli",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mixed-peppers-trip-22",
+        "productId": "mixed-peppers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cucumber-trip-22",
+        "productId": "cucumber",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mushrooms-trip-22",
+        "productId": "mushrooms",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salad-bag-trip-22",
+        "productId": "salad-bag",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-seedless-grapes-trip-22",
+        "productId": "seedless-grapes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-blueberries-trip-22",
+        "productId": "blueberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-courgettes-trip-22",
+        "productId": "courgettes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-garlic-trip-22",
+        "productId": "garlic",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-root-ginger-trip-22",
+        "productId": "root-ginger",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-strawberries-trip-22",
+        "productId": "strawberries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-chips-trip-22",
+        "productId": "tortilla-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-digestives-trip-22",
+        "productId": "digestives",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-peanuts-trip-22",
+        "productId": "salted-peanuts",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sweet-popcorn-trip-22",
+        "productId": "sweet-popcorn",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-jaffa-cakes-trip-22",
+        "productId": "jaffa-cakes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cereal-bars-trip-22",
+        "productId": "cereal-bars",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-dairy-milk-bar-trip-22",
+        "productId": "dairy-milk-bar",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-salted-pretzels-trip-22",
+        "productId": "salted-pretzels",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-mozzarella-trip-22",
+        "productId": "mozzarella",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-soft-cheese-trip-22",
+        "productId": "soft-cheese",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-halloumi-trip-22",
+        "productId": "halloumi",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oat-drink-trip-22",
+        "productId": "oat-drink",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tortilla-wraps-trip-22",
+        "productId": "tortilla-wraps",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pitta-bread-trip-22",
+        "productId": "pitta-bread",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-crumpets-trip-22",
+        "productId": "crumpets",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-chickpeas-trip-22",
+        "productId": "chickpeas",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kidney-beans-trip-22",
+        "productId": "kidney-beans",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sweetcorn-tin-trip-22",
+        "productId": "sweetcorn-tin",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-soy-sauce-trip-22",
+        "productId": "soy-sauce",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-tikka-paste-trip-22",
+        "productId": "tikka-paste",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-clear-honey-trip-22",
+        "productId": "clear-honey",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-peanut-butter-trip-22",
+        "productId": "peanut-butter",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-stock-cubes-trip-22",
+        "productId": "stock-cubes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-spaghetti-trip-22",
+        "productId": "spaghetti",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-couscous-trip-22",
+        "productId": "couscous",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cornflakes-trip-22",
+        "productId": "cornflakes",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-instant-coffee-trip-22",
+        "productId": "instant-coffee",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-green-tea-trip-22",
+        "productId": "green-tea",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-oven-chips-trip-22",
+        "productId": "oven-chips",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-vanilla-ice-cream-trip-22",
+        "productId": "vanilla-ice-cream",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-frozen-berries-trip-22",
+        "productId": "frozen-berries",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-pepperoni-pizza-trip-22",
+        "productId": "pepperoni-pizza",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-laundry-liquid-trip-22",
+        "productId": "laundry-liquid",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-sponge-scourers-trip-22",
+        "productId": "sponge-scourers",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-kitchen-foil-trip-22",
+        "productId": "kitchen-foil",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-shower-gel-trip-22",
+        "productId": "shower-gel",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-shampoo-trip-22",
+        "productId": "shampoo",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-orange-squash-trip-22",
+        "productId": "orange-squash",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-cola-trip-22",
+        "productId": "cola",
+        "quantity": 1,
+        "status": "in_trolley"
+      },
+      {
+        "id": "ti-apple-juice-trip-22",
+        "productId": "apple-juice",
+        "quantity": 1,
+        "status": "in_trolley"
+      }
+    ]
+  }
+]

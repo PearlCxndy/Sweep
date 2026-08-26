@@ -1,0 +1,77 @@
+[
+  {
+    "id": "inf-milk",
+    "claim": "Buys milk every 9 days",
+    "evidenceCount": 31,
+    "evidenceKind": "purchases",
+    "confidence": "high",
+    "deleted": false,
+    "basis": [
+      "milk-semi-2l",
+      "milk-semi-1l",
+      "milk-whole-2l",
+      "milk-arla-semi-2l"
+    ]
+  },
+  {
+    "id": "inf-own-brand",
+    "claim": "Buys own-brand for staples, not the branded version",
+    "evidenceCount": 88,
+    "evidenceKind": "purchases",
+    "confidence": "high",
+    "deleted": false,
+    "basis": [
+      "white-bread",
+      "bananas",
+      "free-range-eggs",
+      "salted-butter",
+      "chicken-breast",
+      "fusilli",
+      "chopped-tomatoes",
+      "teabags",
+      "basmati-rice",
+      "porridge-oats"
+    ]
+  },
+  {
+    "id": "inf-saturday",
+    "claim": "Does the big shop on a Saturday morning",
+    "evidenceCount": 14,
+    "evidenceKind": "trips",
+    "confidence": "high",
+    "deleted": false,
+    "basis": []
+  },
+  {
+    "id": "inf-bread-bananas",
+    "claim": "Buys bread and bananas on the same trip",
+    "evidenceCount": 22,
+    "evidenceKind": "trips",
+    "confidence": "high",
+    "deleted": false,
+    "basis": [
+      "white-bread",
+      "bananas"
+    ]
+  },
+  {
+    "id": "inf-topup",
+    "claim": "Tops up midweek when the big shop was more than a week ago",
+    "evidenceCount": 8,
+    "evidenceKind": "trips",
+    "confidence": "medium",
+    "deleted": false,
+    "basis": []
+  },
+  {
+    "id": "inf-cheddar-block",
+    "claim": "Prefers cheddar in a block over grated",
+    "evidenceCount": 14,
+    "evidenceKind": "purchases",
+    "confidence": "low",
+    "deleted": false,
+    "basis": [
+      "mature-cheddar"
+    ]
+  }
+]

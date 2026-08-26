@@ -1,0 +1,800 @@
+[
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "bananas",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cherry-tomatoes",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "baby-spinach",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "carrots",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "gala-apples",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "avocados",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "brown-onions",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "spring-onions",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "maris-piper",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "lemons",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "chicken-breast",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "chicken-thighs",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "beef-mince",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "salmon-fillets",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cooked-king-prawns",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "back-bacon",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "houmous",
+    "aisle": 5,
+    "section": "Chilled",
+    "aisleOrder": 5
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "orange-juice",
+    "aisle": 5,
+    "section": "Chilled",
+    "aisleOrder": 5
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "greek-yoghurt",
+    "aisle": 5,
+    "section": "Chilled",
+    "aisleOrder": 5
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "white-bread",
+    "aisle": 2,
+    "section": "Bakery",
+    "aisleOrder": 2
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "wholemeal-bread",
+    "aisle": 2,
+    "section": "Bakery",
+    "aisleOrder": 2
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "bagels",
+    "aisle": 2,
+    "section": "Bakery",
+    "aisleOrder": 2
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "croissants",
+    "aisle": 2,
+    "section": "Bakery",
+    "aisleOrder": 2
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "gf-white-loaf",
+    "aisle": 10,
+    "section": "Free from",
+    "aisleOrder": 10
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "gf-brown-loaf",
+    "aisle": 10,
+    "section": "Free from",
+    "aisleOrder": 10
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "gf-penne",
+    "aisle": 10,
+    "section": "Free from",
+    "aisleOrder": 10
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "milk-semi-2l",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "milk-semi-1l",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "milk-whole-2l",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "milk-arla-semi-2l",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "salted-butter",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "mature-cheddar",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "free-range-eggs",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "double-cream",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "chopped-tomatoes",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "baked-beans",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "olive-oil",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "tuna-chunks",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "fusilli",
+    "aisle": 7,
+    "section": "Pasta & rice",
+    "aisleOrder": 7
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "penne",
+    "aisle": 7,
+    "section": "Pasta & rice",
+    "aisleOrder": 7
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "basmati-rice",
+    "aisle": 7,
+    "section": "Pasta & rice",
+    "aisleOrder": 7
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "teabags",
+    "aisle": 8,
+    "section": "Tea & coffee",
+    "aisleOrder": 8
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "ground-coffee",
+    "aisle": 8,
+    "section": "Tea & coffee",
+    "aisleOrder": 8
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "salted-crisps",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "dark-chocolate",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "porridge-oats",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "garden-peas",
+    "aisle": 11,
+    "section": "Frozen",
+    "aisleOrder": 11
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "mixed-vegetables",
+    "aisle": 11,
+    "section": "Frozen",
+    "aisleOrder": 11
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "fish-fingers",
+    "aisle": 11,
+    "section": "Frozen",
+    "aisleOrder": 11
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "washing-up-liquid",
+    "aisle": 12,
+    "section": "Household",
+    "aisleOrder": 12
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "kitchen-towel",
+    "aisle": 12,
+    "section": "Household",
+    "aisleOrder": 12
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "bin-liners",
+    "aisle": 12,
+    "section": "Household",
+    "aisleOrder": 12
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "toothpaste",
+    "aisle": 13,
+    "section": "Toiletries",
+    "aisleOrder": 13
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "sparkling-water",
+    "aisle": 14,
+    "section": "Drinks",
+    "aisleOrder": 14
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "pork-chops",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "pork-mince",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "pork-sausages",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "chicken-drumsticks",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "whole-chicken",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "lamb-mince",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cod-fillets",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cooked-ham",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "turkey-mince",
+    "aisle": 3,
+    "section": "Meat & fish",
+    "aisleOrder": 3
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "broccoli",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "mixed-peppers",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cucumber",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "mushrooms",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "salad-bag",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "seedless-grapes",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "blueberries",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "courgettes",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "garlic",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "root-ginger",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "strawberries",
+    "aisle": 1,
+    "section": "Fruit & veg",
+    "aisleOrder": 1
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "tortilla-chips",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "digestives",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "salted-peanuts",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "sweet-popcorn",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "jaffa-cakes",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cereal-bars",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "dairy-milk-bar",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "salted-pretzels",
+    "aisle": 9,
+    "section": "Snacks",
+    "aisleOrder": 9
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "mozzarella",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "soft-cheese",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "halloumi",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "oat-drink",
+    "aisle": 4,
+    "section": "Dairy",
+    "aisleOrder": 4
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "tortilla-wraps",
+    "aisle": 2,
+    "section": "Bakery",
+    "aisleOrder": 2
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "pitta-bread",
+    "aisle": 2,
+    "section": "Bakery",
+    "aisleOrder": 2
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "crumpets",
+    "aisle": 2,
+    "section": "Bakery",
+    "aisleOrder": 2
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "chickpeas",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "kidney-beans",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "sweetcorn-tin",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "soy-sauce",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "tikka-paste",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "clear-honey",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "peanut-butter",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "stock-cubes",
+    "aisle": 6,
+    "section": "Tins & cooking",
+    "aisleOrder": 6
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "spaghetti",
+    "aisle": 7,
+    "section": "Pasta & rice",
+    "aisleOrder": 7
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "couscous",
+    "aisle": 7,
+    "section": "Pasta & rice",
+    "aisleOrder": 7
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cornflakes",
+    "aisle": 7,
+    "section": "Pasta & rice",
+    "aisleOrder": 7
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "instant-coffee",
+    "aisle": 8,
+    "section": "Tea & coffee",
+    "aisleOrder": 8
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "green-tea",
+    "aisle": 8,
+    "section": "Tea & coffee",
+    "aisleOrder": 8
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "oven-chips",
+    "aisle": 11,
+    "section": "Frozen",
+    "aisleOrder": 11
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "vanilla-ice-cream",
+    "aisle": 11,
+    "section": "Frozen",
+    "aisleOrder": 11
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "frozen-berries",
+    "aisle": 11,
+    "section": "Frozen",
+    "aisleOrder": 11
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "pepperoni-pizza",
+    "aisle": 11,
+    "section": "Frozen",
+    "aisleOrder": 11
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "laundry-liquid",
+    "aisle": 12,
+    "section": "Household",
+    "aisleOrder": 12
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "sponge-scourers",
+    "aisle": 12,
+    "section": "Household",
+    "aisleOrder": 12
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "kitchen-foil",
+    "aisle": 12,
+    "section": "Household",
+    "aisleOrder": 12
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "shower-gel",
+    "aisle": 13,
+    "section": "Toiletries",
+    "aisleOrder": 13
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "shampoo",
+    "aisle": 13,
+    "section": "Toiletries",
+    "aisleOrder": 13
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "orange-squash",
+    "aisle": 14,
+    "section": "Drinks",
+    "aisleOrder": 14
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "cola",
+    "aisle": 14,
+    "section": "Drinks",
+    "aisleOrder": 14
+  },
+  {
+    "storeId": "tesco-express-poplar-high-st",
+    "productId": "apple-juice",
+    "aisle": 14,
+    "section": "Drinks",
+    "aisleOrder": 14
+  }
+]
